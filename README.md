@@ -72,9 +72,9 @@ Production should be run on the server that have the crab stageout area mounted 
 1. Submit tasks using `RunKit/crabOverseer.py` and monitor the process.
    It is recommended to run `crabOverseer` in `screen`.
    ```sh
-   python RunKit/crabOverseer.py --cfg NanoProd/crab/overseer_cfg.yaml NanoProd/crab/Run2_2018/FILE1.yaml NanoProd/crab/Run2_2018/FILE2.yaml ...
+   python RunKit/crabOverseer.py --cfg NanoProd/crab/overseer_cfg_uhh.yaml NanoProd/crab/Run2_2016_uhh/FILE1.yaml NanoProd/crab/Run2_2016_uhh/FILE2.yaml ...
    ```
-   - Use `NanoProd/crab/Run2_2018/*.yaml` to submit all the tasks
+   - Use `NanoProd/crab/Run2_2016_uhh/*.yaml` to submit all the tasks
    - For more information about available command line arguments run `python3 RunKit/crabOverseer.py --help`
    - For consecutive runs, if there are no modifications in the configs, it is enough to run `crabOverseer` without any arguments:
      ```sh
