@@ -9,3 +9,5 @@ __init__.py
 /data
 /soft
 /FrameworkJobReport.xml
+/crab_test
+crab.log

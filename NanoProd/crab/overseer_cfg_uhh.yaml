@@ -1,0 +1,43 @@
+cmsswPython: RunKit/nanoProdWrapper.py
+params:
+  customise: NanoProd/NanoProd/customize.customize
+  skimCfg: skim_uhh.yaml
+  skimSetup: skim
+  skimSetupFailed: skim_failed
+  maxEvents: -1
+splitting: FileBased
+unitsPerJob: 1
+scriptExe: RunKit/crabJob.sh
+outputFiles:
+  - nano.root
+filesToTransfer:
+  - RunKit/crabJob.sh
+  - RunKit/crabJob.py
+  - RunKit/crabJob_nanoProd.py
+  - RunKit/skim_tree.py
+  - RunKit/sh_tools.py
+  - NanoProd/config/skim_uhh.yaml
+  - NanoProd/python/customize.py
+site: T2_DE_DESY
+crabOutput: /store/user/mrieger/crab_nano_uhh_v12
+localCrabOutput: /eos/user/m/mrieger/NanoProd_outputs/local_crab_output
+finalOutput: /eos/user/m/mrieger/NanoProd_outputs/final_output
+maxMemory: 2500
+numCores: 1
+inputDBS: global
+allowNonValid: False
+dryrun: False
+maxRecoveryCount: 3
+updateInterval: 60
+localProcessing:
+  lawTask: UHHProdTask
+  workflow: htcondor
+  bootstrap: bootstrap.sh
+#  requirements: ( (OpSysAndVer =?= "CentOS7") || (OpSysAndVer =?= "CentOS8") )
+targetOutputFileSize: 2048
+renewKerberosTicket: True
+whitelistFinalRecovery:
+  - T1_DE_KIT
+  - T2_CH_CERN
+  - T2_DE_DESY
+  - T2_IT_Legnaro

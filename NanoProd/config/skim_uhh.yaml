@@ -1,0 +1,73 @@
+skim:
+  input_tree: Events
+  other_trees:
+    - LuminosityBlocks
+    - Runs
+  sel_ref: selection
+  column_filters:
+    - drop Jet_hfcentralEtaStripSize
+    - drop Jet_hfadjacentEtaStripsSize
+    - drop Electron_miniPFRelIso_all
+    - drop Electron_miniPFRelIso_chg
+    - drop Electron_eInvMinusPInv
+    - drop Electron_sieie
+    - drop Electron_scEtOverPt
+    - drop Electron_jetRelIso
+    - drop Electron_r9
+    - drop Electron_jetPtRelv2
+    - drop Electron_vidNestedWPBitmap
+    - drop Electron_energyErr
+    - drop Electron_vidNestedWPBitmapHEEP
+    - drop Electron_dr03EcalRecHitSumEt
+    - drop Electron_dr03HcalDepth1TowerSumEt
+    - drop Electron_jetNDauCharged
+    - drop Electron_dr03TkSumPt
+    - drop Electron_dr03TkSumPtHEEP
+    - drop Electron_isPFcand
+    - drop Electron_lostHits
+    - drop Electron_cutBased_HEEP
+    - drop Muon_miniPFRelIso_all
+    - drop Muon_miniPFRelIso_chg
+    - drop Muon_dxybs
+    - drop Muon_segmentComp
+    - drop Muon_jetRelIso
+    - drop Muon_jetPtRelv2
+    - drop Tau_idDecayModeOldDMs
+    - drop Tau_idAntiEleDeadECal
+    - drop ^Tau_leadTk.*$
+    - drop Tau_photonsOutsideSignalCone
+    - drop Tau_puCorr
+    - drop ^(n|)OtherPV(_.*|)$
+    - drop ^(n|)LowPtElectron(_.*|)$
+    - drop ^(n|)SoftActivityJet(.*|)$
+    - drop ^(n|)IsoTrack(_.*|)$
+    - drop ^(n|)GenDressedLepton(_.*|)$
+    - drop ^(n|)GenIsolatedPhoton(_.*|)$
+    - drop ^(n|)GenProton(_.*|)$
+    - drop ^(n|)Proton(_.*|)$
+    - drop ^(n|)PPSLocalTrack(_.*|)$
+    - drop ^L1_.*$
+    - drop ^HLT_.*$
+    - keep ^HLT_.*Tau.*$
+    - keep ^HLT_(|Old)(|Tk)Mu[1-9][0-9]+.*$
+    - drop ^HLT_Ele.*CaloId.*$
+    - keep ^HLT_Quad(|PF)Jet.*$
+    - keep ^HLT_MonoCentralPFJet.*$
+    - drop ^HLT_Ele.*Ele.*$
+    - drop ^HLT_.*Tau3[mM]u.*$
+    - drop ^HLT_Mu.*(Jpsi|Upsilon|NoFilters|IP).*
+
+skim_failed:
+  input_tree: Events
+  output_tree: EventsNotSelected
+  sel_ref: selection
+  invert_sel: true
+  column_filters:
+    - drop ^.*$
+    - keep ^LHE_.*$
+    - keep genWeight
+    - keep ^Pileup_(nPU|nTrueInt)$
+
+selection: "
+  return true;
+  "
