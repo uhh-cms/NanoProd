@@ -29,7 +29,7 @@ ignoreLocality: False
 allowNonValid: False
 dryrun: False
 maxRecoveryCount: 3
-updateInterval: 60
+updateInterval: 5
 localProcessing:
   lawTask: UHHProdTask
   workflow: htcondor
