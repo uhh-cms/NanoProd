@@ -2,7 +2,7 @@
 
 ## How to install
 ```sh
-git clone --recursive https://github.com/cms-tau-pog/NanoProd.git
+git clone --recursive https://github.com/uhh-cms/NanoProd.git
 ```
 
 ## Loading environment
