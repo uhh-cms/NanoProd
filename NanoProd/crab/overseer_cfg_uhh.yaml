@@ -19,9 +19,9 @@ filesToTransfer:
   - NanoProd/config/skim_uhh.yaml
   - NanoProd/python/customize.py
 site: T2_DE_DESY
-crabOutput: /store/user/mrieger/crab_nano_uhh_v12
-localCrabOutput: /eos/user/m/mrieger/NanoProd_outputs/local_crab_output
-finalOutput: /eos/user/m/mrieger/NanoProd_outputs/final_output
+crabOutput: /store/user/bwieders/crab_nano_uhh_v12
+localCrabOutput: /eos/user/b/bwieders/NanoProd_outputs/local_crab_output
+finalOutput: /eos/user/b/bwieders/NanoProd_outputs/final_output
 maxMemory: 2500
 numCores: 1
 inputDBS: global
