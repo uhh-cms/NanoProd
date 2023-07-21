@@ -35,7 +35,7 @@ Production should be run on the server that have the crab stageout area mounted 
 1. Test that the code works locally (take one of the miniAOD files as an input). E.g.
    ```sh
    mkdir -p tmp && cd tmp
-   cmsEnv python3 $ANALYSIS_PATH/RunKit/nanoProdWrapper.py customise=NanoProd/NanoProd/customize.customize skimCfg=$ANALYSIS_PATH/NanoProd/config/skim.yaml maxEvents=100 sampleType=mc storeFailed=True era=Run2_2018 inputFiles=file:/eos/cms/store/group/phys_tau/kandroso/miniAOD_UL18/TTToSemiLeptonic.root writePSet=True skimSetup=skim skimSetupFailed=skim_failed createTar=False
+   cmsEnv python3 $ANALYSIS_PATH/RunKit/nanoProdWrapper.py customise=NanoProd/NanoProd/customize.customize skimCfg=$ANALYSIS_PATH/NanoProd/config/skim_uhh.yaml maxEvents=100 sampleType=mc storeFailed=True era=Run2_2018 inputFiles=file:/eos/cms/store/group/phys_tau/kandroso/miniAOD_UL18/TTToSemiLeptonic.root writePSet=True skimSetup=skim skimSetupFailed=skim_failed createTar=False
    cmsEnv $ANALYSIS_PATH/RunKit/crabJob.sh
    ```
    Check that output file `nano_0.root` is created correctly.
@@ -51,7 +51,7 @@ Production should be run on the server that have the crab stageout area mounted 
 
 1. Test a dryrun crab submission
    ```sh
-   python RunKit/crabOverseer.py --work-area crab_test --cfg NanoProd/crab/overseer_cfg.yaml --no-loop NanoProd/crab/crab_test.yaml
+   python RunKit/crabOverseer.py --work-area crab_test --cfg NanoProd/crab/overseer_cfg_uhh.yaml --no-loop NanoProd/crab/crab_test.yaml
    ```
    - If successful, the last line output to the terminal should be
      ```
