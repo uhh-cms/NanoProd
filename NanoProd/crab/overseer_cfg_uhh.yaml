@@ -25,6 +25,7 @@ finalOutput: /eos/user/m/mrieger/NanoProd_outputs/final_output
 maxMemory: 2500
 numCores: 1
 inputDBS: global
+ignoreLocality: True
 allowNonValid: False
 dryrun: False
 maxRecoveryCount: 3
