@@ -3,7 +3,8 @@ config:
     sampleType: data
     era: Run2_2018
     storeFailed: False
-  #lumiMask: /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+  # lumiMask: /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+  # recommendations: https://twiki.cern.ch/twiki/bin/view/CMS/PdmVRun2LegacyAnalysis (2023-08-15)
 
 # Es gibt Datasets mit GT36 und welche mit ohne? Welche ist Richtig? (Bog)
 
@@ -22,21 +23,14 @@ MET_Run2018B: /MET/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD
 MET_Run2018C: /MET/Run2018C-UL2018_MiniAODv2_GT36-v1/MINIAOD
 MET_Run2018D: /MET/Run2018D-UL2018_MiniAODv2_GT36-v1/MINIAOD
 
-# 2018 gibt es die SINGLE Electron dataset nichts?
-# SingleElectron_Run2018B-UL: /SingleElectron/Run2018B-UL2018_MiniAODv2-v1/MINIAOD
-# SingleElectron_Run2018C-UL: /SingleElectron/Run2018C-UL2018_MiniAODv2-v1/MINIAOD
-# SingleElectron_Run2018D-UL: /SingleElectron/Run2018D-UL2018_MiniAODv2-v1/MINIAOD
-# SingleElectron_Run2018E-UL: /SingleElectron/Run2018E-UL2018_MiniAODv2-v1/MINIAOD
-# SingleElectron_Run2018F-UL: /SingleElectron/Run2018F-UL2018_MiniAODv2-v1/MINIAOD
+# SingleElectron ist nun EGamma (Bog)
+EGamma_Run2018A: /EGamma/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD
+EGamma_Run2018B: /EGamma/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD
+EGamma_Run2018C: /EGamma/Run2018C-UL2018_MiniAODv2_GT36-v1/MINIAOD
+EGamma_Run2018D: /EGamma/Run2018D-UL2018_MiniAODv2_GT36-v2/MINIAOD
 
-
-# warum brauchen wir den EGamma und JetHT. (Bog)
+# Brauchen wir JetHT? Es ist nicht in 2017 drin gewesen und wir haben diese Info ja indirekt schon (Bog)
 # JetHT_Run2018A: /JetHT/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD
 # JetHT_Run2018B: /JetHT/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD
 # JetHT_Run2018C: /JetHT/Run2018C-UL2018_MiniAODv2_GT36-v1/MINIAOD
 # JetHT_Run2018D: /JetHT/Run2018D-UL2018_MiniAODv2-v2/MINIAOD
-
-# EGamma_Run2018A: /EGamma/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD
-# EGamma_Run2018B: /EGamma/Run2018B-UL2018_MiniAODv2-v1/MINIAOD
-# EGamma_Run2018C: /EGamma/Run2018C-UL2018_MiniAODv2_GT36-v1/MINIAOD
-# EGamma_Run2018D: /EGamma/Run2018D-UL2018_MiniAODv2-v2/MINIAOD
