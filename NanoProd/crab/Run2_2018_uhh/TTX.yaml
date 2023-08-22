@@ -5,15 +5,75 @@ config:
     storeFailed: True
 
 
-TTWW: /TTWW_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
-TTZZ: /TTZZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
-TTWZ: /TTWZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
+TTWW:
+  miniAOD: /TTWW_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
 
-TTZToLLNuNu: /TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
-TTZToLLNuNu_tune_down: /TTZToLLNuNu_M-10_TuneCP5down_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
-TTZToLLNuNu_tune_up: /TTZToLLNuNu_M-10_TuneCP5up_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+TTZZ:
+  miniAOD: /TTZZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
 
-TTWJetsToQQ: /TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
-TTWJetsToLNu: /TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
-TTWJetsToLNu_tune_down: /TTWJetsToLNu_TuneCP5down_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
-TTWJetsToLNu_tune_up: /TTWJetsToLNu_TuneCP5up_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+TTWZ:
+  miniAOD: /TTWZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+
+TTZToLLNuNu:
+  miniAOD: /TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+TTZToLLNuNu_tune_down:
+  miniAOD: /TTZToLLNuNu_M-10_TuneCP5down_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+TTZToLLNuNu_tune_up:
+  miniAOD: /TTZToLLNuNu_M-10_TuneCP5up_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+
+TTWJetsToQQ:
+  miniAOD: /TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+TTWJetsToLNu:
+  miniAOD: /TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+TTWJetsToLNu_tune_down:
+  miniAOD: /TTWJetsToLNu_TuneCP5down_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+TTWJetsToLNu_tune_up:
+  miniAOD: /TTWJetsToLNu_TuneCP5up_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
