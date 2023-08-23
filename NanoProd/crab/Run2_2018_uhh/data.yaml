@@ -6,8 +6,8 @@ config:
   # lumiMask: /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
   # recommendations: https://twiki.cern.ch/twiki/bin/view/CMS/PdmVRun2LegacyAnalysis (2023-08-15)
 
-# Es gibt Datasets mit GT36 und welche mit ohne? Welche ist Richtig? (Bog)
 
+# GT36 are the newest datasets (Bog)
 SingleMuon_Run2018A:
   miniAOD: /SingleMuon/Run2018A-UL2018_MiniAODv2_GT36-v2/MINIAOD
   sampleType: data
@@ -123,10 +123,3 @@ EGamma_Run2018D:
   remoteBase: philip_v1
   timestamps:
     - ""
-
-
-# Brauchen wir JetHT? Es ist nicht in 2017 drin gewesen und wir haben diese Info ja indirekt schon (Bog)
-# JetHT_Run2018A: /JetHT/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD
-# JetHT_Run2018B: /JetHT/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD
-# JetHT_Run2018C: /JetHT/Run2018C-UL2018_MiniAODv2_GT36-v1/MINIAOD
-# JetHT_Run2018D: /JetHT/Run2018D-UL2018_MiniAODv2-v2/MINIAOD
