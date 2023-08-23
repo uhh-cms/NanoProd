@@ -68,20 +68,6 @@ Production should be run on the server that have the crab stageout area mounted 
    law index
    law run ProdTask --help
    ```
-
-1. Add following Code in RunKit/crabTask.py to stop checking locally after crab output files
-   ```py
-   def recover(self):
-      # comment the old way out to get failed tasks
-      # filesToProcess = self.getFilesToProcess()
-
-      # get all failed jobIDs
-      jobIds = self.selectJobIds([JobStatus.finished], invert=True)
-      # get corresponding miniAODs
-      filesToProcess = [self.getDatasetFileById(job_id) for job_id in jobIds]
-
-   # rest of the normal recover code.
-   ```
    
 1. Submit tasks using `RunKit/crabOverseer.py` and monitor the process.
    It is recommended to run `crabOverseer` in `screen`.
