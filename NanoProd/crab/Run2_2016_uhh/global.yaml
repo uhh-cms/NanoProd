@@ -2,4 +2,4 @@ GLOBAL:
   era: Run2_2016
   nanoVersion: v12
   remoteBases:
-    nathan_v1: gsiftp://dcache-door-cms04.desy.de//pnfs/desy.de/cms/tier2/store/user/nprouvos/crab_nano_uhh_v12_2016
+    nathan_v1: gsiftp://dcache-door-cms04.desy.de//pnfs/desy.de/cms/tier2/store/user/nprouvos/YOUR_LOCATION
