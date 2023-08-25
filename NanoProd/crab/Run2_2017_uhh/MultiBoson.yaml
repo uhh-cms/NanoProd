@@ -1,0 +1,69 @@
+config:
+  params:
+    sampleType: mc
+    era: Run2_2017
+    storeFailed: True
+
+ZZ:
+  miniAOD: /ZZ_TuneCP5_13TeV-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v1
+  sampleType: mc
+  timestamps:
+    - ""
+
+WW:
+  miniAOD: /WW_TuneCP5_13TeV-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v1
+  sampleType: mc
+  timestamps:
+    - ""
+
+WZ:
+  miniAOD: /WZ_TuneCP5_13TeV-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v1
+  sampleType: mc
+  timestamps:
+    - ""
+
+WWW:
+  miniAOD: /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v9-v2/MINIAODSIM
+  remoteBase: bogdan_v1
+  sampleType: mc
+  timestamps:
+    - ""
+
+WWZ:
+  miniAOD: /WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v1
+  sampleType: mc
+  timestamps:
+    - ""
+
+ZZZ:
+  miniAOD: /ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v1
+  sampleType: mc
+  timestamps:
+    - ""
+
+WWW_ext:
+  miniAOD: /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9_ext1-v2/MINIAODSIM
+  remoteBase: bogdan_v1
+  sampleType: mc
+  timestamps:
+    - ""
+
+WWZ_ext:
+  miniAOD: /WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9_ext1-v2/MINIAODSIM
+  remoteBase: bogdan_v1
+  sampleType: mc
+  timestamps:
+    - ""
+
+ZZZ_ext:
+  miniAOD: /ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9_ext1-v2/MINIAODSIM
+  remoteBase: bogdan_v1
+  sampleType: mc
+  timestamps:
+    - ""
+
