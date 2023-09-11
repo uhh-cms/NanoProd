@@ -1,0 +1,97 @@
+config:
+  params:
+    sampleType: mc
+    era: Run2_2018
+    storeFailed: True
+
+# mit extension? (Bog)
+ZHToTauTau:
+  miniAOD: /ZHToTauTau_M125_CP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+ZHToTauTau_ext:
+  miniAOD: /ZHToTauTau_M125_CP5_13TeV-powheg-pythia8_ext1/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+WplusHToTauTau:
+  miniAOD: /WplusHToTauTau_M125_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+WminusHToTauTau:
+  miniAOD: /WminusHToTauTau_M125_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+
+
+ttHToTauTau:
+  miniAOD: /ttHToTauTau_M125_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+ttHToNonbb:
+  miniAOD: /ttHToNonbb_M125_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+ttHTobb:
+  miniAOD: /ttHJetTobb_M125_TuneCP5_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+
+VBFHToTauTau:
+  miniAOD: /VBFHToTauTau_M125_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+GluGluHToTauTau:
+  miniAOD: /GluGluHToTauTau_M125_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+
+
+# sollen die drei datasets hier rein? (Bog)
+ZH_HToBB_ZToLL:
+  miniAOD: /ZH_HToBB_ZToLL_M-125_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+ZH_HToBB_ZToQQ:
+  miniAOD: /ZH_HToBB_ZToQQ_M-125_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
+ggZH_HToBB_ZToLL:
+  miniAOD: /ggZH_HToBB_ZToLL_M-125_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
+
