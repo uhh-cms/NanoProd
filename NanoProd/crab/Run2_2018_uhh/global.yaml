@@ -1,0 +1,6 @@
+GLOBAL:
+  era: Run2_2018
+  nanoVersion: v12
+  remoteBases:
+    philip_v1: gsiftp://dcache-door-cms04.desy.de//pnfs/desy.de/cms/tier2/store/user/pkeicher/YOUR_LOCATION
+    bogdan_v1: gsiftp://dcache-door-cms04.desy.de//pnfs/desy.de/cms/tier2/store/user/bwieders/YOUR_LOCATION

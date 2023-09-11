@@ -4,10 +4,46 @@ config:
     era: Run2_2016
     storeFailed: True
 
-TTWJetsToLNu: /TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-TTWJetsToQQ: /TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-TTZToLLNuNu: /TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-TTWW: /TTWW_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-TTZZ: /TTZZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-TTWZ: /TTWZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+TTWJetsToLNu:
+  miniAOD: /TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: nathan_v1
+  timestamps:
+    - ""
+
+TTWJetsToQQ:
+  miniAOD: /TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: nathan_v1
+  timestamps:
+    - ""
+
+TTZToLLNuNu:
+  miniAOD: /TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: nathan_v1
+  timestamps:
+    - ""
+
+TTWW:
+  miniAOD: /TTWW_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: nathan_v1
+  timestamps:
+    - ""
+
+TTZZ:
+  miniAOD: /TTZZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: nathan_v1
+  timestamps:
+    - ""
+
+TTWZ:
+  miniAOD: /TTWZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: nathan_v1
+  timestamps:
+    - ""
+
 

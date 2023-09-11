@@ -5,6 +5,8 @@ config:
     storeFailed: True
 
 # die hier sind nicht in 2017 vorhanden. (Bog)
+# Wir benutzen (bisher) nur die inklusiven samples für die resonante Analyse (Tobias)
+
 # ZZTo2L2Nu:
   # miniAOD: /ZZTo2L2Nu_TuneCP5_13TeV_powheg_pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   # sampleType: mc
@@ -104,13 +106,17 @@ WZ:
     - ""
 
 # Ich habe mit Marcel geredet, extensions sind eigentlich exclusive, wir sollten also beide prozessieren (Bog)
+# Wenn die extension sowieso deutlich mehr Statistik haben sollte, könnte es auch reichen nur die zu prozessieren, oder nicht? (Tobias)
+# Die extensions haben deutlich mehr Statistik (bsp: WWW hat: ext: 9894000, non-ext: 240000 (Bog) Ich nehm einfach beide mit.
+
+
 WWW:
   miniAOD: /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
     - ""
-# WWW_ext:
+WWW_ext:
   miniAOD: /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
@@ -123,12 +129,12 @@ WWZ:
   remoteBase: bogdan_v1
   timestamps:
     - ""
-# WWZ_ext:
-  # miniAOD: /WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM
-  # sampleType: mc
-  # remoteBase: bogdan_v1
-  # timestamps:
-    # - ""
+WWZ_ext:
+  miniAOD: /WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
 
 WWW:
   miniAOD: /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
@@ -137,12 +143,12 @@ WWW:
   timestamps:
     - ""
 
-#WWW_ext:
-  # miniAOD: /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM
-  # sampleType: mc
-  # remoteBase: bogdan_v1
-  # timestamps:
-    # - ""
+WWW_ext:
+  miniAOD: /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
 
 WZZ:
   miniAOD: /WZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM
@@ -151,12 +157,12 @@ WZZ:
   timestamps:
     - ""
 
-# WZZ_ext:
-  # miniAOD: /WZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM
-  # sampleType: mc
-  # remoteBase: bogdan_v1
-  # timestamps:
-    # - ""
+WZZ_ext:
+  miniAOD: /WZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
 
 ZZZ:
   miniAOD: /ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
@@ -165,10 +171,10 @@ ZZZ:
   timestamps:
     - ""
 
-# ZZZ_ext:
-  # miniAOD: /ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM
-  # sampleType: mc
-  # remoteBase: bogdan_v1
-  # timestamps:
-    # - ""
+ZZZ_ext:
+  miniAOD: /ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: bogdan_v1
+  timestamps:
+    - ""
 

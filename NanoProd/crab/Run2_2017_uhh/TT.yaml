@@ -4,6 +4,151 @@ config:
     era: Run2_2017
     storeFailed: True
 
-TTTo2L2Nu: /TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
-TTToHadronic: /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM
-TTToSemiLeptonic: /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+TTTo2L2Nu:
+  miniAOD: /TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: philip_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToSemiLeptonic:
+  miniAOD: /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: philip_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToHadronic:
+  miniAOD: /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM
+  remoteBase: philip_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+#Tune up/down
+TTTo2L2Nu_tune_down:
+  miniAOD: /TTTo2L2Nu_TuneCP5down_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTTo2L2Nu_tune_up:
+  miniAOD: /TTTo2L2Nu_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTTo2L2Nu_hdamp_down:
+  miniAOD: /TTTo2L2Nu_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTTo2L2Nu_hdamp_up:
+  miniAOD: /TTTo2L2Nu_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTTo2L2Nu_mtop171p5:
+  miniAOD: /TTTo2L2Nu_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTTo2L2Nu_mtop173p5:
+  miniAOD: /TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToHadronic_tune_down:
+  miniAOD: /TTToHadronic_TuneCP5down_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToHadronic_tune_up:
+  miniAOD: /TTToHadronic_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToHadronic_hdamp_down:
+  miniAOD: /TTToHadronic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToHadronic_hdamp_up:
+  miniAOD: /TTToHadronic_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToHadronic_mtop171p5:
+  miniAOD: /TTToHadronic_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToHadronic_mtop173p5:
+  miniAOD: /TTToHadronic_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToSemiLeptonic_tune_down:
+  miniAOD: /TTToSemiLeptonic_TuneCP5down_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToSemiLeptonic_tune_up:
+  miniAOD: /TTToSemiLeptonic_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToSemiLeptonic_hdamp_up:
+  miniAOD: /TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToSemiLeptonic_hdamp_up:
+  miniAOD: /TTToSemiLeptonic_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToSemiLeptonic_mtop171p5:
+  miniAOD: /TTToSemiLeptonic_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
+TTToSemiLeptonic_mtop173p5:
+  miniAOD: /TTToSemiLeptonic_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM
+  remoteBase: bogdan_v2
+  sampleType: mc
+  timestamps:
+    - ""
+
