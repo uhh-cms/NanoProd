@@ -16,6 +16,8 @@ if not thisdir in sys.path:
     sys.path.append(thisdir)
 
 from wlcg_dbs_interface import WLCGInterface
+from RunKit.crabTaskStatus import LogEntryParser
+from RunKit.sh_tools import sh_call
 
 interface = WLCGInterface()
 wlcg_template= os.path.join("{wlcg_prefix}{wlcg_dir}",
@@ -131,6 +133,17 @@ def get_job_inputs(crab_dir: str, job_input_file: str="job_input_files.json"):
 
     return input_map
 
+def create_job_status(crab_dir, output_path=None):
+    returncode, output, err = sh_call(['crab', 'status', '--json', '-d', crab_dir],
+                                        catch_stdout=True, split='\n',
+                                        env=interface.getCmsswEnv())
+    status = LogEntryParser.Parse(output)
+    return_dict = json.loads(status.to_json())
+    if isinstance(output_path, str):
+        with open(output_path, "w") as f:
+            json.dump(return_dict, f, indent=4)
+    return return_dict
+
 def get_status(sample_dir: str, status_file: str, crab_dir: str) -> dict[str, dict]:
     """Function to load the status from a .json file in *sample_dir*.
     If the file 'sample_dir/status_file.json' does not exist, the script falls
@@ -169,7 +182,8 @@ def get_status(sample_dir: str, status_file: str, crab_dir: str) -> dict[str, di
         # raise NotImplementedError("Obtaining the status from crab not implemented yet!")
         # cmd = f"crab status --long --json -d {crab_dir}"
         # call([cmd], shell=True, env=interface.getCmsswEnv())
-        pass
+        
+        status = create_job_status(crab_dir=crab_dir)
     
     return status
 
@@ -196,7 +210,10 @@ def check_status(status: dict[str, dict], crab_dir: str) -> None:
     # if not status_project_dir or not status_project_dir == abs_crab_dir:
     if status_project_dir and not status_project_dir == abs_crab_dir:
         msg = f"Project dir in status file '{status_project_dir}' does not match current crab dir under scutiny '{abs_crab_dir}'!"
-        raise ValueError(msg)
+        print(msg)
+        print("Trying to generate status")
+        status = create_job_status(crab_dir=crab_dir)
+    return status
 
 def check_crab_directory(
     sample_dir: str,
@@ -319,8 +336,9 @@ def check_crab_directory(
         status_file=status_file,
         crab_dir=crab_dir
     )
+    # status = create_job_status(crab_dir)
     # sanity check whether we indeed loaded the correct status file
-    check_status(status=status, crab_dir=crab_dir)
+    status = check_status(status=status, crab_dir=crab_dir)
 
     # get general information about jobs
     n_jobs = status.get("n_jobs_total", 0)
@@ -846,10 +864,10 @@ def parse_arguments():
 
     args = parser.parse_args()
     if args.suffices == None:
-        args.suffices = ["", "recovery_1", "recovery_2"]
+        args.suffices = ["", "recovery_1", "recovery_2", "recovery_3"]
 
     if args.status_files == None:
-        args.status_files = ["status_0", "status_1", "status"]
+        args.status_files = ["status_0", "status_1", "status_2", "status"]
     
     if not os.path.exists(args.sample_config):
         parser.error(f"file {args.sample_config} does not exist!")
