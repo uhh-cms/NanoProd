@@ -478,8 +478,9 @@ def main(*args,
 
     local_job_summary_dict = dict()
     if local_job_summary:
-        with open(local_job_summary) as f:
-            local_job_summary_dict = json.load(f)
+        for summary in local_job_summary:
+            with open(summary) as f:
+                local_job_summary_dict.update(json.load(f))
     # loop through the sample directories containing the crab base directories
     pbar_sampledirs = tqdm(sample_dirs)
     for sample_dir in pbar_sampledirs:
@@ -857,7 +858,7 @@ def parse_arguments():
             """.split()
         ),
         metavar="path/to/summary_for_local_jobs.json",
-        # nargs="+",
+        nargs="+",
         type=str,
         dest="local_job_summary"
     )
