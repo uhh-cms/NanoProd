@@ -1,125 +1,131 @@
-config:
-  params:
-    sampleType: data
-    era: Run2_2018
-    storeFailed: False
-  # lumiMask: /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
-  # recommendations: https://twiki.cern.ch/twiki/bin/view/CMS/PdmVRun2LegacyAnalysis (2023-08-15)
-
-
-# GT36 are the newest datasets (Bog)
-SingleMuon_Run2018A:
-  miniAOD: /SingleMuon/Run2018A-UL2018_MiniAODv2_GT36-v2/MINIAOD
-  sampleType: data
-  remoteBase: philip_v1
-  timestamps:
-    - ""
-
-SingleMuon_Run2018B:
-  miniAOD: /SingleMuon/Run2018B-UL2018_MiniAODv2_GT36-v2/MINIAOD
-  sampleType: data
-  remoteBase: philip_v1
-  timestamps:
-    - ""
-
-SingleMuon_Run2018C:
-  miniAOD: /SingleMuon/Run2018C-UL2018_MiniAODv2_GT36-v3/MINIAOD
-  sampleType: data
-  remoteBase: philip_v1
-  timestamps:
-    - ""
-
-SingleMuon_Run2018D:
-  miniAOD: /SingleMuon/Run2018D-UL2018_MiniAODv2_GT36-v2/MINIAOD
-  sampleType: data
-  remoteBase: philip_v1
-  timestamps:
-    - ""
-
-
-Tau_Run2018A:
-  miniAOD: /Tau/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD
-  sampleType: data
-  remoteBase: philip_v1
-  timestamps:
-    - ""
-
-Tau_Run2018B:
-  miniAOD: /Tau/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD
-  sampleType: data
-  remoteBase: philip_v1
-  timestamps:
-    - ""
-
-Tau_Run2018C:
-  miniAOD: /Tau/Run2018C-UL2018_MiniAODv2_GT36-v1/MINIAOD
-  sampleType: data
-  remoteBase: philip_v1
-  timestamps:
-    - ""
-
-Tau_Run2018D:
-  miniAOD: /Tau/Run2018D-UL2018_MiniAODv2_GT36-v1/MINIAOD
-  sampleType: data
-  remoteBase: philip_v1
-  timestamps:
-    - ""
-
-
-MET_Run2018A:
-  miniAOD: /MET/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD
-  sampleType: data
-  remoteBase: philip_v1
-  timestamps:
-    - ""
-
-MET_Run2018B:
-  miniAOD: /MET/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD
-  sampleType: data
-  remoteBase: philip_v1
-  timestamps:
-    - ""
-
-MET_Run2018C:
-  miniAOD: /MET/Run2018C-UL2018_MiniAODv2_GT36-v1/MINIAOD
-  sampleType: data
-  remoteBase: philip_v1
-  timestamps:
-    - ""
-
-MET_Run2018D:
-  miniAOD: /MET/Run2018D-UL2018_MiniAODv2_GT36-v1/MINIAOD
-  sampleType: data
-  remoteBase: philip_v1
-  timestamps:
-    - ""
-
-
-# SingleElectron ist nun EGamma (Bog)
 EGamma_Run2018A:
   miniAOD: /EGamma/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD
-  sampleType: data
   remoteBase: philip_v1
+  sampleType: data
   timestamps:
-    - ""
-
+  - ''
 EGamma_Run2018B:
   miniAOD: /EGamma/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD
-  sampleType: data
   remoteBase: philip_v1
+  sampleType: data
   timestamps:
-    - ""
-
+  - '230822_181733'
+  - '230825_204528'
 EGamma_Run2018C:
   miniAOD: /EGamma/Run2018C-UL2018_MiniAODv2_GT36-v1/MINIAOD
-  sampleType: data
   remoteBase: philip_v1
+  sampleType: data
   timestamps:
-    - ""
-
+  - '230822_181743'
+  - '230913_094917'
+  - '230920_142515'
+  - '230921_102301'
 EGamma_Run2018D:
   miniAOD: /EGamma/Run2018D-UL2018_MiniAODv2_GT36-v2/MINIAOD
-  sampleType: data
   remoteBase: philip_v1
+  sampleType: data
   timestamps:
-    - ""
+  - ''
+MET_Run2018A:
+  miniAOD: /MET/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '230822_181655'
+  - '230825_185446'
+  - '230827_154750'
+MET_Run2018B:
+  miniAOD: /MET/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '230822_181701'
+  - '230825_190104'
+  - '230827_154930'
+  - '230912_093331'
+MET_Run2018C:
+  miniAOD: /MET/Run2018C-UL2018_MiniAODv2_GT36-v1/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '230822_181709'
+  - '230825_190833'
+MET_Run2018D:
+  miniAOD: /MET/Run2018D-UL2018_MiniAODv2_GT36-v1/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '230822_181716'
+  - '230825_195613'
+  - '230827_155931'
+  - '230912_093354'
+SingleMuon_Run2018A:
+  miniAOD: /SingleMuon/Run2018A-UL2018_MiniAODv2_GT36-v2/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '230822_181555'
+  - '230825_145703'
+  - '230827_145838'
+  - '230912_093132'
+SingleMuon_Run2018B:
+  miniAOD: /SingleMuon/Run2018B-UL2018_MiniAODv2_GT36-v2/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '230822_181604'
+  - '230825_152043'
+  - '230827_150352'
+SingleMuon_Run2018C:
+  miniAOD: /SingleMuon/Run2018C-UL2018_MiniAODv2_GT36-v3/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '230822_181611'
+  - '230823_160924'
+SingleMuon_Run2018D:
+  miniAOD: /SingleMuon/Run2018D-UL2018_MiniAODv2_GT36-v2/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '230822_181619'
+  - '230825_172849'
+  - '230827_153017'
+  - '230912_093256'
+Tau_Run2018A:
+  miniAOD: /Tau/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '230822_181625'
+  - '230825_174250'
+  - '230827_153358'
+Tau_Run2018B:
+  miniAOD: /Tau/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '230822_181633'
+  - '230825_174936'
+Tau_Run2018C:
+  miniAOD: /Tau/Run2018C-UL2018_MiniAODv2_GT36-v1/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '230822_181639'
+  - '230825_175547'
+  - '230827_153604'
+  - '230912_093313'
+Tau_Run2018D:
+  miniAOD: /Tau/Run2018D-UL2018_MiniAODv2_GT36-v1/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '230822_181647'
+  - '230825_184000'
+  - '230827_154450'
+config:
+  params:
+    era: Run2_2018
+    sampleType: data
+    storeFailed: false
