@@ -199,7 +199,10 @@ GluGluToHHTo2B2Tau_node_5:
   remoteBase: philip_v1
   sampleType: mc
   timestamps:
-  - ''
+  - '230919_161848'
+  - '230920_113012'
+  - []
+  - '230921_094122'
 GluGluToHHTo2B2Tau_node_6:
   miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   remoteBase: philip_v1
