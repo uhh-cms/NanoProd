@@ -180,8 +180,8 @@ GluGluToHHTo2B2Tau_node_2:
   remoteBase: philip_v1
   sampleType: mc
   timestamps:
-  - '230822_180233'
-  - '230920_200201'
+  - '230926_114120'
+  - '230927_081557'
 GluGluToHHTo2B2Tau_node_3:
   miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   remoteBase: philip_v1
@@ -319,8 +319,7 @@ GluGluToRadionToHHTo2B2Tau_M-350:
   remoteBase: philip_v1
   sampleType: mc
   timestamps:
-  - '230822_180441'
-  - '230920_200201'
+  - '230926_114125'
 GluGluToRadionToHHTo2B2Tau_M-400:
   miniAOD: /GluGluToRadionToHHTo2B2Tau_M-400_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   remoteBase: philip_v1
