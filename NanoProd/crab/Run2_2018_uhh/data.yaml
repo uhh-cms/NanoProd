@@ -3,7 +3,9 @@ EGamma_Run2018A:
   remoteBase: philip_v1
   sampleType: data
   timestamps:
-  - ''
+  - '230919_161844'
+  - '230921_094114'
+  - '230922_081951'
 EGamma_Run2018B:
   miniAOD: /EGamma/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD
   remoteBase: philip_v1
@@ -25,7 +27,7 @@ EGamma_Run2018D:
   remoteBase: philip_v1
   sampleType: data
   timestamps:
-  - ''
+  - '230922_085055'
 MET_Run2018A:
   miniAOD: /MET/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD
   remoteBase: philip_v1
