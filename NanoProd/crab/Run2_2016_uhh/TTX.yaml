@@ -1,49 +1,57 @@
-config:
-  params:
-    sampleType: mc
-    era: Run2_2016
-    storeFailed: True
-
 TTWJetsToLNu:
   miniAOD: /TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_111149'
+  - '230906_205042'
+  - '230907_205615'
 
 TTWJetsToQQ:
   miniAOD: /TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-TTZToLLNuNu:
-  miniAOD: /TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230904_111154'
+  - '230906_205059'
+  - '230907_054107'
 
 TTWW:
   miniAOD: /TTWW_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-TTZZ:
-  miniAOD: /TTZZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230904_111203'
 
 TTWZ:
   miniAOD: /TTWZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_111236'
+  - '230906_205304'
+  - '230907_054157'
 
+TTZToLLNuNu:
+  miniAOD: /TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111158'
+  - '230906_205225'
+  - '230907_205818'
 
+TTZZ:
+  miniAOD: /TTZZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111207'
+  - '230906_205251'
+  - '230907_054136'
+
+config:
+  params:
+    era: Run2_2016
+    sampleType: mc
+    storeFailed: true

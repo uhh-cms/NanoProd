@@ -1,94 +1,114 @@
-config:
-  params:
-    sampleType: data
-    era: Run2_2016
-    storeFailed: False
-  #lumiMask: /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions16/13TeV/Legacy_2016/Cert_271036-284044_13TeV_Legacy2016_Collisions16_JSON.txt
-
-SingleMuon_Run2016F:
-  miniAOD: /SingleMuon/Run2016F-UL2016_MiniAODv2-v2/MINIAOD
-  sampleType: data
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-SingleMuon_Run2016G:
-  miniAOD: /SingleMuon/Run2016G-UL2016_MiniAODv2-v2/MINIAOD
-  sampleType: data
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-SingleMuon_Run2016H:
-  miniAOD: /SingleMuon/Run2016H-UL2016_MiniAODv2-v2/MINIAOD
-  sampleType: data
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-
-SingleElectron_Run2016F:
-  miniAOD: /SingleElectron/Run2016F-UL2016_MiniAODv2-v2/MINIAOD
-  sampleType: data
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-SingleElectron_Run2016G:
-  miniAOD: /SingleElectron/Run2016G-UL2016_MiniAODv2-v2/MINIAOD
-  sampleType: data
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-SingleElectron_Run2016H:
-  miniAOD: /SingleElectron/Run2016H-UL2016_MiniAODv2-v2/MINIAOD
-  sampleType: data
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-
-Tau_Run2016F:
-  miniAOD: /Tau/Run2016F-UL2016_MiniAODv2-v1/MINIAOD
-  sampleType: data
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-Tau_Run2016G:
-  miniAOD: /Tau/Run2016G-UL2016_MiniAODv2-v1/MINIAOD
-  sampleType: data
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-Tau_Run2016H:
-  miniAOD: /Tau/Run2016H-UL2016_MiniAODv2-v1/MINIAOD
-  sampleType: data
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-
 MET_Run2016F:
   miniAOD: /MET/Run2016F-UL2016_MiniAODv2-v2/MINIAOD
-  sampleType: data
   remoteBase: nathan_v1
+  sampleType: data
   timestamps:
-    - ""
+  - '230901_131859'
 
 MET_Run2016G:
   miniAOD: /MET/Run2016G-UL2016_MiniAODv2-v2/MINIAOD
-  sampleType: data
   remoteBase: nathan_v1
+  sampleType: data
   timestamps:
-    - ""
+  - '230901_131903'
+  - '230904_102500'
+  - '230907_215431'
+  - '230908_195926'
 
 MET_Run2016H:
   miniAOD: /MET/Run2016H-UL2016_MiniAODv2-v2/MINIAOD
-  sampleType: data
   remoteBase: nathan_v1
+  sampleType: data
   timestamps:
-    - ""
+  - '230901_131908'
+  - '230904_103844'
+  - '230905_120506'
 
+SingleElectron_Run2016F:
+  miniAOD: /SingleElectron/Run2016F-UL2016_MiniAODv2-v2/MINIAOD
+  remoteBase: nathan_v1
+  sampleType: data
+  timestamps:
+  - '230901_131829'
+  - '230904_001339'
+
+SingleElectron_Run2016G:
+  miniAOD: /SingleElectron/Run2016G-UL2016_MiniAODv2-v2/MINIAOD
+  remoteBase: nathan_v1
+  sampleType: data
+  timestamps:
+  - '230901_131833'
+  - '230904_084524'
+  - '230905_141353'
+  - '230907_213358'
+  - '230908_192238'
+
+SingleElectron_Run2016H:
+  miniAOD: /SingleElectron/Run2016H-UL2016_MiniAODv2-v2/MINIAOD
+  remoteBase: nathan_v1
+  sampleType: data
+  timestamps:
+  - '230901_131837'
+  - '230904_094031'
+  - '230905_142134'
+  - '230907_214104'
+  - '230908_193039'
+
+SingleMuon_Run2016F:
+  miniAOD: /SingleMuon/Run2016F-UL2016_MiniAODv2-v2/MINIAOD
+  remoteBase: nathan_v1
+  sampleType: data
+  timestamps:
+  - '230901_131817'
+  - '230903_215746'
+
+SingleMuon_Run2016G:
+  miniAOD: /SingleMuon/Run2016G-UL2016_MiniAODv2-v2/MINIAOD
+  remoteBase: nathan_v1
+  sampleType: data
+  timestamps:
+  - '230901_131821'
+  - '230903_222739'
+
+SingleMuon_Run2016H:
+  miniAOD: /SingleMuon/Run2016H-UL2016_MiniAODv2-v2/MINIAOD
+  remoteBase: nathan_v1
+  sampleType: data
+  timestamps:
+  - '230901_131825'
+  - '230904_001140'
+
+Tau_Run2016F:
+  miniAOD: /Tau/Run2016F-UL2016_MiniAODv2-v1/MINIAOD
+  remoteBase: nathan_v1
+  sampleType: data
+  timestamps:
+  - '230901_131841'
+  - '230904_094128'
+
+Tau_Run2016G:
+  miniAOD: /Tau/Run2016G-UL2016_MiniAODv2-v1/MINIAOD
+  remoteBase: nathan_v1
+  sampleType: data
+  timestamps:
+  - '230901_131846'
+  - '230904_100146'
+  - '230905_115806'
+  - '230907_214555'
+
+Tau_Run2016H:
+  miniAOD: /Tau/Run2016H-UL2016_MiniAODv2-v1/MINIAOD
+  remoteBase: nathan_v1
+  sampleType: data
+  timestamps:
+  - '230901_131854'
+  - '230904_101558'
+  - '230905_120214'
+  - '230907_215219'
+  - '230908_193623'
+
+config:
+  params:
+    era: Run2_2016
+    sampleType: data
+    storeFailed: false

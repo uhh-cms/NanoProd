@@ -1,70 +1,84 @@
-config:
-  params:
-    sampleType: mc
-    era: Run2_2016
-    storeFailed: True
-
-
 WJetsToLNu:
   miniAOD: /WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-WJetsToLNu_HT-70To100:
-  miniAOD: /WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230904_111255'
+  - '230906_211403'
+  - '230908_222953'
 
 WJetsToLNu_HT-100To200:
   miniAOD: /WJetsToLNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-WJetsToLNu_HT-200To400:
-  miniAOD: /WJetsToLNu_HT-200To400_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
-
-WJetsToLNu_HT-400To600:
-  miniAOD: /WJetsToLNu_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-WJetsToLNu_HT-600To800:
-  miniAOD: /WJetsToLNu_HT-600To800_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-WJetsToLNu_HT-800To1200:
-  miniAOD: /WJetsToLNu_HT-800To1200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
+  - '230904_111304'
+  - '230907_062945'
+  - '230908_223343'
 
 WJetsToLNu_HT-1200To2500:
   miniAOD: /WJetsToLNu_HT-1200To2500_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_111324'
+  - '230907_063828'
+  - '230908_223525'
+
+WJetsToLNu_HT-200To400:
+  miniAOD: /WJetsToLNu_HT-200To400_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111308'
+  - '230907_063419'
+  - '230908_223451'
 
 WJetsToLNu_HT-2500ToInf:
   miniAOD: /WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_111328'
+  - '230907_063907'
 
+WJetsToLNu_HT-400To600:
+  miniAOD: /WJetsToLNu_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111312'
+  - '230907_063448'
+  - '230907_221634'
+  - '230908_223507'
+
+WJetsToLNu_HT-600To800:
+  miniAOD: /WJetsToLNu_HT-600To800_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111316'
+  - '230907_063619'
+
+WJetsToLNu_HT-70To100:
+  miniAOD: /WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111259'
+  - '230907_062743'
+  - '230908_223145'
+
+WJetsToLNu_HT-800To1200:
+  miniAOD: /WJetsToLNu_HT-800To1200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111320'
+  - '230907_063738'
+
+config:
+  params:
+    era: Run2_2016
+    sampleType: mc
+    storeFailed: true

@@ -1,28 +1,30 @@
-config:
-  params:
-    sampleType: mc
-    era: Run2_2016
-    storeFailed: True
-
 EWKWMinus2Jets_WToLNu_M-50:
   miniAOD: /EWKWMinus2Jets_WToLNu_M-50_TuneCP5_withDipoleRecoil_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_104400'
+  - '230906_162921'
 
 EWKWPlus2Jets_WToLNu_M-50:
   miniAOD: /EWKWPlus2Jets_WToLNu_M-50_TuneCP5_withDipoleRecoil_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_104404'
+  - '230906_162951'
+  - '230907_201607'
 
 EWKZ2Jets_ZToLL_M-50:
   miniAOD: /EWKZ2Jets_ZToLL_M-50_TuneCP5_withDipoleRecoil_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_104408'
+  - '230906_163019'
 
-
+config:
+  params:
+    era: Run2_2016
+    sampleType: mc
+    storeFailed: true

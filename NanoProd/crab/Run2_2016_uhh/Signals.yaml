@@ -1,807 +1,861 @@
-config:
-  params:
-    sampleType: mc
-    era: Run2_2016
-    storeFailed: True
-
-# non-res GluGluToHHTo2B2Tau
-
-GluGluToHHTo2B2Tau_node_SM:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToHHTo2B2Tau_node_1:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToHHTo2B2Tau_node_2:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToHHTo2B2Tau_node_3:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToHHTo2B2Tau_node_4:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToHHTo2B2Tau_node_5:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToHHTo2B2Tau_node_6:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToHHTo2B2Tau_node_7:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToHHTo2B2Tau_node_8:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToHHTo2B2Tau_node_9:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToHHTo2B2Tau_node_10:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToHHTo2B2Tau_node_11:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToHHTo2B2Tau_node_12:
-  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-
-# GluGlu -> Radion
-GluGluToRadionToHHTo2B2Tau_M-250:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-260:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-260_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-270:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-270_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-280:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-280_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-300:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-300_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-320:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-320_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-350:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-350_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-400:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-400_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-450:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-450_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-500:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-550:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-550_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-600:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-600_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-650:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-650_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-700:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-700_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-750:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-800:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-800_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-850:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-850_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-900:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-900_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-1000:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-1000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-1250:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-1250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-1500:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-1500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-1750:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-1750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-2000:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-2000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-2500:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-2500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToRadionToHHTo2B2Tau_M-3000:
-  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-3000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-
-# GluGlu -> BulkGraviton
-GluGluToBulkGravitonToHHTo2B2Tau_M-250:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-260:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-260_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-270:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-270_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-280:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-280_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-300:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-300_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-320:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-320_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-350:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-350_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-400:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-400_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-450:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-450_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-500:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-550:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-550_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-600:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-600_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-650:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-650_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-700:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-700_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-750:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-800:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-800_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-850:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-850_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-GluGluToBulkGravitonToHHTo2B2Tau_M-900:
-  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-900_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
 GluGluToBulkGravitonToHHTo2B2Tau_M-1000:
   miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-1000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133624'
 
 GluGluToBulkGravitonToHHTo2B2Tau_M-1250:
   miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-1250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133632'
+  - '230831_114600'
 
 GluGluToBulkGravitonToHHTo2B2Tau_M-1500:
   miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-1500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133640'
 
 GluGluToBulkGravitonToHHTo2B2Tau_M-1750:
   miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-1750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133649'
+  - '230831_114616'
 
 GluGluToBulkGravitonToHHTo2B2Tau_M-2000:
   miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-2000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133657'
+  - '230831_114629'
+
+GluGluToBulkGravitonToHHTo2B2Tau_M-250:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133330'
 
 GluGluToBulkGravitonToHHTo2B2Tau_M-2500:
   miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-2500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133705'
+  - '230831_114641'
+
+GluGluToBulkGravitonToHHTo2B2Tau_M-260:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-260_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133338'
+
+GluGluToBulkGravitonToHHTo2B2Tau_M-270:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-270_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133409'
+
+GluGluToBulkGravitonToHHTo2B2Tau_M-280:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-280_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133417'
+  - '230831_114309'
+
+GluGluToBulkGravitonToHHTo2B2Tau_M-300:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-300_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133425'
+  - '230831_114333'
 
 GluGluToBulkGravitonToHHTo2B2Tau_M-3000:
   miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-3000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-
-
-# VBF --> Radion
-VBFToRadionToHHTo2B2Tau_M-250:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133714'
+  - '230831_114655'
 
-VBFToRadionToHHTo2B2Tau_M-260:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-260_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-320:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-320_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133433'
+  - '230831_114349'
 
-VBFToRadionToHHTo2B2Tau_M-270:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-270_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-350:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-350_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133442'
+  - '230831_114408'
 
-VBFToRadionToHHTo2B2Tau_M-280:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-280_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-400:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-400_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133451'
+  - '230831_114423'
 
-VBFToRadionToHHTo2B2Tau_M-300:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-300_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-450:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-450_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133459'
+  - '230831_114434'
 
-VBFToRadionToHHTo2B2Tau_M-320:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-320_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-500:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133509'
 
-VBFToRadionToHHTo2B2Tau_M-350:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-350_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-550:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-550_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133516'
 
-VBFToRadionToHHTo2B2Tau_M-400:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-400_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-600:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-600_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133525'
 
-VBFToRadionToHHTo2B2Tau_M-450:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-450_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-650:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-650_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133533'
+  - '230831_114500'
 
-VBFToRadionToHHTo2B2Tau_M-500:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-700:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-700_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133541'
 
-VBFToRadionToHHTo2B2Tau_M-550:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-550_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-750:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133550'
+  - '230831_114521'
 
-VBFToRadionToHHTo2B2Tau_M-600:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-600_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-800:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-800_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133558'
+  - '230831_114535'
 
-VBFToRadionToHHTo2B2Tau_M-650:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-650_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-850:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-850_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133607'
 
-VBFToRadionToHHTo2B2Tau_M-700:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-700_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToBulkGravitonToHHTo2B2Tau_M-900:
+  miniAOD: /GluGluToBulkGravitonToHHTo2B2Tau_M-900_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_133615'
 
-VBFToRadionToHHTo2B2Tau_M-750:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToHHTo2B2Tau_node_1:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_132822'
 
-VBFToRadionToHHTo2B2Tau_M-800:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-800_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToHHTo2B2Tau_node_10:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_132938'
 
-VBFToRadionToHHTo2B2Tau_M-850:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-850_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToHHTo2B2Tau_node_11:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230922_123245'
 
-VBFToRadionToHHTo2B2Tau_M-900:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-900_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToHHTo2B2Tau_node_12:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_132954'
 
-VBFToRadionToHHTo2B2Tau_M-1000:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-1000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToHHTo2B2Tau_node_2:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_132830'
 
-VBFToRadionToHHTo2B2Tau_M-1250:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-1250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToHHTo2B2Tau_node_3:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_132839'
 
-VBFToRadionToHHTo2B2Tau_M-1500:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-1500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToHHTo2B2Tau_node_4:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_132848'
 
-VBFToRadionToHHTo2B2Tau_M-1750:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-1750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToHHTo2B2Tau_node_5:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_132856'
 
-VBFToRadionToHHTo2B2Tau_M-2000:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-2000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToHHTo2B2Tau_node_6:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_132905'
 
-VBFToRadionToHHTo2B2Tau_M-2500:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-2500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToHHTo2B2Tau_node_7:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230922_123241'
 
-VBFToRadionToHHTo2B2Tau_M-3000:
-  miniAOD: /VBFToRadionToHHTo2B2Tau_M-3000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToHHTo2B2Tau_node_8:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_132922'
 
-
-# VBF --> BulkGraviton
-VBFToBulkGravitonToHHTo2B2Tau_M-250:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+GluGluToHHTo2B2Tau_node_9:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230815_132930'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-260:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-260_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToHHTo2B2Tau_node_SM:
+  miniAOD: /GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_132813'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-270:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-270_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-1000:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-1000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133235'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-280:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-280_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-1250:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-1250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133242'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-300:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-300_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-1500:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-1500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133251'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-320:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-320_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-1750:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-1750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133259'
+  - '230831_114224'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-350:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-350_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-2000:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-2000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133307'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-400:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-400_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-250:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230922_123248'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-450:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-450_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-2500:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-2500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133315'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-500:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-260:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-260_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133012'
+  - '230831_114014'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-550:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-550_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-270:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-270_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133020'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-600:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-600_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-280:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-280_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133029'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-650:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-650_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-300:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-300_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133037'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-700:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-700_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-3000:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-3000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133323'
+  - '230831_114242'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-750:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-320:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-320_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133046'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-800:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-800_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-350:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-350_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133054'
+  - '230831_114040'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-850:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-850_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-400:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-400_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133103'
 
-VBFToBulkGravitonToHHTo2B2Tau_M-900:
-  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-900_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+GluGluToRadionToHHTo2B2Tau_M-450:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-450_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_133112'
+
+GluGluToRadionToHHTo2B2Tau_M-500:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133119'
+
+GluGluToRadionToHHTo2B2Tau_M-550:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-550_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133127'
+
+GluGluToRadionToHHTo2B2Tau_M-600:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-600_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133134'
+
+GluGluToRadionToHHTo2B2Tau_M-650:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-650_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133142'
+  - '230831_114113'
+
+GluGluToRadionToHHTo2B2Tau_M-700:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-700_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133151'
+
+GluGluToRadionToHHTo2B2Tau_M-750:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133200'
+
+GluGluToRadionToHHTo2B2Tau_M-800:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-800_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133208'
+  - '230831_114133'
+
+GluGluToRadionToHHTo2B2Tau_M-850:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-850_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133217'
+  - '230831_114146'
+
+GluGluToRadionToHHTo2B2Tau_M-900:
+  miniAOD: /GluGluToRadionToHHTo2B2Tau_M-900_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133227'
+  - '230831_114158'
 
 VBFToBulkGravitonToHHTo2B2Tau_M-1000:
   miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-1000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_150215'
+  - '230831_120007'
 
 VBFToBulkGravitonToHHTo2B2Tau_M-1250:
   miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-1250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_150223'
+  - '230831_120022'
 
 VBFToBulkGravitonToHHTo2B2Tau_M-1500:
   miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-1500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_150230'
 
 VBFToBulkGravitonToHHTo2B2Tau_M-1750:
   miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-1750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_150237'
+  - '230831_120045'
 
 VBFToBulkGravitonToHHTo2B2Tau_M-2000:
   miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-2000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_150244'
+  - '230831_120101'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-250:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134053'
+  - '230831_115430'
 
 VBFToBulkGravitonToHHTo2B2Tau_M-2500:
   miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-2500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_150252'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-260:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-260_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134100'
+  - '230831_115447'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-270:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-270_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134108'
+  - '230831_115509'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-280:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-280_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134117'
+  - '230831_115535'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-300:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-300_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134125'
 
 VBFToBulkGravitonToHHTo2B2Tau_M-3000:
   miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-3000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230815_150300'
+  - '230831_120122'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-320:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-320_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134133'
+  - '230831_115609'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-350:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-350_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134141'
+  - '230831_115637'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-400:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-400_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134149'
+  - '230831_115700'
+  - '230901_130059'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-450:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-450_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134157'
+  - '230831_115719'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-500:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134206'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-550:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-550_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134215'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-600:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-600_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134224'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-650:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-650_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134233'
+  - '230831_115751'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-700:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-700_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134241'
+  - '230831_115811'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-750:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_150143'
+  - '230831_115829'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-800:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-800_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_150151'
+  - '230831_115849'
+  - '230831_135155'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-850:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-850_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_150158'
+  - '230831_115907'
+
+VBFToBulkGravitonToHHTo2B2Tau_M-900:
+  miniAOD: /VBFToBulkGravitonToHHTo2B2Tau_M-900_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_150207'
+  - '230831_115945'
+
+VBFToRadionToHHTo2B2Tau_M-1000:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-1000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133955'
+  - '230831_115248'
+
+VBFToRadionToHHTo2B2Tau_M-1250:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-1250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134006'
+  - '230831_115300'
+
+VBFToRadionToHHTo2B2Tau_M-1500:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-1500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134014'
+  - '230831_115316'
+
+VBFToRadionToHHTo2B2Tau_M-1750:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-1750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134021'
+  - '230831_115330'
+
+VBFToRadionToHHTo2B2Tau_M-2000:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-2000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134029'
+  - '230831_115346'
+
+VBFToRadionToHHTo2B2Tau_M-250:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-250_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133722'
+  - '230831_114715'
+
+VBFToRadionToHHTo2B2Tau_M-2500:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-2500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134037'
+  - '230831_115400'
+
+VBFToRadionToHHTo2B2Tau_M-260:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-260_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133731'
+  - '230831_114736'
+
+VBFToRadionToHHTo2B2Tau_M-270:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-270_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133740'
+  - '230831_114803'
+
+VBFToRadionToHHTo2B2Tau_M-280:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-280_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133753'
+
+VBFToRadionToHHTo2B2Tau_M-300:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-300_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133803'
+  - '230831_114834'
+
+VBFToRadionToHHTo2B2Tau_M-3000:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-3000_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_134044'
+  - '230831_115415'
+
+VBFToRadionToHHTo2B2Tau_M-320:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-320_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133811'
+
+VBFToRadionToHHTo2B2Tau_M-350:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-350_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133820'
+
+VBFToRadionToHHTo2B2Tau_M-400:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-400_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133828'
+  - '230831_114900'
+
+VBFToRadionToHHTo2B2Tau_M-450:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-450_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133836'
+  - '230831_114919'
+
+VBFToRadionToHHTo2B2Tau_M-500:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-500_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133844'
+  - '230831_114951'
+
+VBFToRadionToHHTo2B2Tau_M-550:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-550_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133851'
+  - '230831_115010'
+
+VBFToRadionToHHTo2B2Tau_M-600:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-600_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133900'
+  - '230831_115035'
+
+VBFToRadionToHHTo2B2Tau_M-650:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-650_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133908'
+  - '230831_115058'
+
+VBFToRadionToHHTo2B2Tau_M-700:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-700_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133916'
+  - '230831_115118'
+
+VBFToRadionToHHTo2B2Tau_M-750:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-750_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133924'
+  - '230831_115138'
+
+VBFToRadionToHHTo2B2Tau_M-800:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-800_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133931'
+  - '230831_115157'
+
+VBFToRadionToHHTo2B2Tau_M-850:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-850_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133939'
+  - '230831_115209'
+
+VBFToRadionToHHTo2B2Tau_M-900:
+  miniAOD: /VBFToRadionToHHTo2B2Tau_M-900_TuneCP5_PSWeights_narrow_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230815_133947'
+  - '230831_115232'
+
+config:
+  params:
+    era: Run2_2016
+    sampleType: mc
+    storeFailed: true
