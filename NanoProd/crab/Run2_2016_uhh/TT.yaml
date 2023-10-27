@@ -13,15 +13,14 @@ TTTo2L2Nu:
   - []
   - []
 
-TTToHadronic:
-  miniAOD: /TTWJetsToLNu_TuneCP5up_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  remoteBase: nathan_v1
-  sampleType: mc
-  smpleType: mc
-  timestamps:
-  - '230904_111251'
-  - '230906_210447'
-  - '230907_210708'
+# TTToHadronic:
+#   miniAOD: /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+#   remoteBase: nathan_v1
+#   sampleType: mc
+#   timestamps:
+#   - '230904_111251'
+#   - '230906_210447'
+#   - '230907_210708'
 
 TTToSemiLeptonic:
   ignore_miniAOD_LFNs:
@@ -41,119 +40,6 @@ TTToSemiLeptonic:
   - '230908_222647'
   - '230917_122101'
   - []
-
-# Tune up/down
-#TTTo2L2Nu_tune_down:
-  miniAOD: /TTTo2L2Nu_TuneCP5down_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTTo2L2Nu_tune_up:
-  miniAOD: /TTTo2L2Nu_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTTo2L2Nu_hdamp_down:
-  miniAOD: /TTTo2L2Nu_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTTo2L2Nu_hdamp_up:
-  miniAOD: /TTTo2L2Nu_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTTo2L2Nu_mtop171p5:
-  miniAOD: /TTTo2L2Nu_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTTo2L2Nu_mtop173p5:
-  miniAOD: /TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTToHadronic_tune_down:
-  miniAOD: /TTToHadronic_TuneCP5down_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTToHadronic_tune_up:
-  miniAOD: /TTToHadronic_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTToHadronic_hdamp_down:
-  miniAOD: /TTToHadronic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTToHadronic_hdamp_up:
-  miniAOD: /TTToHadronic_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTToHadronic_mtop171p5:
-  miniAOD: /TTToHadronic_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTToHadronic_mtop173p5:
-  miniAOD: /TTToHadronic_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTZToLLNuNu_tune_down:
-  miniAOD: /TTZToLLNuNu_M-10_TuneCP5down_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTZToLLNuNu_tune_up:
-  miniAOD: /TTZToLLNuNu_M-10_TuneCP5up_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTWJetsToLNu_tune_down:
-  miniAOD: /TTWJetsToLNu_TuneCP5down_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-#TTWJetsToLNu_tune_up:
-  miniAOD: /TTWJetsToLNu_TuneCP5up_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  smpleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
 
 config:
   params:
