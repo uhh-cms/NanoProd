@@ -175,7 +175,6 @@ class WLCGInterface(object):
 
     def load_events_from_file(self, remote_file: str, treename: str="Events"):
         try:
-            from IPython import embed; embed()
             f = up.open({remote_file: treename})
             
             return f.num_entries
@@ -285,11 +284,10 @@ class WLCGInterface(object):
                 lambda x: any(path.endswith(name_template.format(id=x)) for path in job_outputs), 
                 relevant_ids
             ))
-
         # for state "failed", collect output files that should not be there
         if state == "failed":
             collector_set.update(filter(
-                lambda x: any(x.endswith(name_template.format(id=x)) for id in relevant_ids), 
+                lambda x: any(x.endswith(name_template.format(id=id)) for id in relevant_ids), 
                 job_outputs
             ))
         # if state is finished, safe the done lfns (if the output of the job is also 
