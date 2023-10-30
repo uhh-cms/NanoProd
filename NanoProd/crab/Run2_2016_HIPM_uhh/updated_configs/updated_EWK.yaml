@@ -1,0 +1,30 @@
+EWKWMinus2Jets_WToLNu:
+  miniAOD: /EWKWMinus2Jets_WToLNu_M-50_TuneCP5_withDipoleRecoil_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  remoteBase: ana_v1
+  sampleType: mc
+  timestamps:
+  - '231009_161954'
+  - '231010_125353'
+  - '231012_153331'
+  - '231013_113852'
+EWKWPlus2Jets_WToLNu:
+  miniAOD: /EWKWPlus2Jets_WToLNu_M-50_TuneCP5_withDipoleRecoil_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  remoteBase: ana_v1
+  sampleType: mc
+  timestamps:
+  - '231009_161959'
+  - '231010_071727'
+  - '231011_085548'
+EWKZ2Jets_ZToLL:
+  miniAOD: /EWKZ2Jets_ZToLL_M-50_TuneCP5_withDipoleRecoil_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  remoteBase: ana_v1
+  sampleType: mc
+  timestamps:
+  - '231009_162007'
+  - '231011_085603'
+  - '231012_153351'
+config:
+  params:
+    era: Run2_2016_HIPM
+    sampleType: mc
+    storeFailed: true
