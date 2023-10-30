@@ -1,0 +1,5 @@
+GLOBAL:
+  era: Run2_2016_HIPM
+  nanoVersion: v12
+  remoteBases:
+    ana_v1: gsiftp://dcache-door-cms04.desy.de//pnfs/desy.de/cms/tier2/store/user/aalvesan/crab_nano_v12_2016
