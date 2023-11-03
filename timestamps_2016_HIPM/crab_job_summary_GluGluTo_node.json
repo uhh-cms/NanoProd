@@ -1,0 +1,486 @@
+{
+    "GluGluToHHTo2B2Tau_node_SM": {
+        "das_total": 7,
+        "total": 7,
+        "done": 7,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124744"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/54546F8E-8727-DA49-9B1C-793D440B511F.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/E9D4A642-AFB1-6241-B8C8-C56F50EF65E3.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/062EC0C0-9AB4-5E4A-96AC-4ED67914EB36.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/95E03B0F-D31C-3243-800D-C38CEB43497B.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/6DFC750D-EDA5-7F4B-AF16-B9E21E4798A7.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/5A6BB64C-DF3B-8247-85DF-8E48961E478F.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/55221F91-FBDF-834F-826B-92B5285E8A13.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/54546F8E-8727-DA49-9B1C-793D440B511F.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/E9D4A642-AFB1-6241-B8C8-C56F50EF65E3.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/062EC0C0-9AB4-5E4A-96AC-4ED67914EB36.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/6DFC750D-EDA5-7F4B-AF16-B9E21E4798A7.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/5A6BB64C-DF3B-8247-85DF-8E48961E478F.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/95E03B0F-D31C-3243-800D-C38CEB43497B.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_SM_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/55221F91-FBDF-834F-826B-92B5285E8A13.root"
+        ],
+        "missing_lfns": []
+    },
+    "GluGluToHHTo2B2Tau_node_1": {
+        "das_total": 7,
+        "total": 7,
+        "done": 7,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124748",
+            "231006_080218"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/CDECFE92-3A2C-F747-B532-DCA94706D0CA.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/BDD52FE7-1EBC-254C-BAF8-8822F4A1178F.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/A0728CD4-1FB5-B746-A9C3-035FA89A05B5.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/92B43DCB-F081-2145-8A33-5253474CE4EF.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/4008C473-EE06-6548-BC00-8509927000D1.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/0982892C-2FE5-364F-96E9-FB82C507F119.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/52162EB7-9FE8-0145-8823-000443B8614F.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/CDECFE92-3A2C-F747-B532-DCA94706D0CA.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/BDD52FE7-1EBC-254C-BAF8-8822F4A1178F.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/A0728CD4-1FB5-B746-A9C3-035FA89A05B5.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/92B43DCB-F081-2145-8A33-5253474CE4EF.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/4008C473-EE06-6548-BC00-8509927000D1.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/0982892C-2FE5-364F-96E9-FB82C507F119.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_1_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/52162EB7-9FE8-0145-8823-000443B8614F.root"
+        ],
+        "missing_lfns": []
+    },
+    "GluGluToHHTo2B2Tau_node_2": {
+        "das_total": 10,
+        "total": 10,
+        "done": 10,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124752",
+            "231009_155847",
+            "231010_071605"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/2A3D5C07-DFCD-074E-AD55-1BFB5C658809.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/F1B24F06-EC0B-304E-8153-7A95E3675246.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/E66A8CBA-1071-644A-9941-2FE15B0B2C3B.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/800C2082-8344-344C-B013-6AA311DC9AC2.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/4580E562-F29D-424A-9D8F-042B7A58D1B1.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/7963D9C0-8C34-D84B-9015-E42709259DDC.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/0CE9652C-2863-7B41-A518-3A594707381C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/C19F34AF-853E-BD41-A6E0-FEFB06575647.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/371D2D38-BB32-884E-8516-68D07981C342.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/6134239E-F1B9-434D-BD64-AC3D449BA729.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/2A3D5C07-DFCD-074E-AD55-1BFB5C658809.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/F1B24F06-EC0B-304E-8153-7A95E3675246.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/E66A8CBA-1071-644A-9941-2FE15B0B2C3B.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/800C2082-8344-344C-B013-6AA311DC9AC2.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/4580E562-F29D-424A-9D8F-042B7A58D1B1.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/6134239E-F1B9-434D-BD64-AC3D449BA729.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/7963D9C0-8C34-D84B-9015-E42709259DDC.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/0CE9652C-2863-7B41-A518-3A594707381C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/371D2D38-BB32-884E-8516-68D07981C342.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_2_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/C19F34AF-853E-BD41-A6E0-FEFB06575647.root"
+        ],
+        "missing_lfns": []
+    },
+    "GluGluToHHTo2B2Tau_node_3": {
+        "das_total": 7,
+        "total": 7,
+        "done": 7,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124757"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/2598B615-B6DD-314B-91BD-7A26075997BA.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/98D0166A-0E47-C547-9E5E-A08619FE92F5.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/258C7C4F-8E98-9C4F-B544-F4E0D8DE262B.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/978B64E7-7D0E-6744-AF14-6AE32CD03F6A.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/7C5AF012-33B7-1445-8845-F5E57E96207C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/432CC874-FE56-9645-A047-4DCE8DF393F9.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/B022E538-C3F0-CC4E-BBDC-3E6C460E041C.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/2598B615-B6DD-314B-91BD-7A26075997BA.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/98D0166A-0E47-C547-9E5E-A08619FE92F5.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/258C7C4F-8E98-9C4F-B544-F4E0D8DE262B.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/978B64E7-7D0E-6744-AF14-6AE32CD03F6A.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/7C5AF012-33B7-1445-8845-F5E57E96207C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/432CC874-FE56-9645-A047-4DCE8DF393F9.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_3_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/B022E538-C3F0-CC4E-BBDC-3E6C460E041C.root"
+        ],
+        "missing_lfns": []
+    },
+    "GluGluToHHTo2B2Tau_node_4": {
+        "das_total": 7,
+        "total": 7,
+        "done": 7,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124802",
+            "231006_080242"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/EEDFD312-6024-B44E-9210-DAFA47708A89.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/D02FCEF1-45A4-9E4D-8400-D0221FC37D13.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/7373ABF6-2607-9C47-A188-A3A87123775B.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/FFEFACF7-40AB-C244-91F7-BDE580A5B91E.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/CDC28B1C-B1CF-9C48-BE49-011D379D8A33.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/7238E7B7-83FE-8F40-B509-9C97ADB0A981.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/D6864FC2-29B9-4A48-8A2B-D7B753764C10.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/FFEFACF7-40AB-C244-91F7-BDE580A5B91E.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/7373ABF6-2607-9C47-A188-A3A87123775B.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/D02FCEF1-45A4-9E4D-8400-D0221FC37D13.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/EEDFD312-6024-B44E-9210-DAFA47708A89.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/D6864FC2-29B9-4A48-8A2B-D7B753764C10.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/CDC28B1C-B1CF-9C48-BE49-011D379D8A33.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_4_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/7238E7B7-83FE-8F40-B509-9C97ADB0A981.root"
+        ],
+        "missing_lfns": []
+    },
+    "GluGluToHHTo2B2Tau_node_5": {
+        "das_total": 21,
+        "total": 21,
+        "done": 21,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124807",
+            "231006_080301"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/0813A08F-C089-1144-B2F8-D41B152282AE.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/32FD6411-0206-8745-9EF4-D394970E79F9.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/68FF4927-D799-5243-B776-181A5A814D07.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/DF0EB6AC-6DE9-2648-9345-2B7A3B3F2525.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/DE772609-30F5-1549-800B-4C68FC9F811A.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/55A55216-157C-B748-82DD-6FEE244CFD49.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/57DD66A9-2321-9440-99CF-804A142697D7.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/763F15B8-3C85-ED43-AF44-89D2D0269292.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/191700E6-696E-1D43-A812-12A9F6D3C112.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/7DE02517-BCEF-7442-BD33-E470A8830EED.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/CEB2487B-B027-514B-BDA7-08CC31AFD4D4.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/CA7C220B-B8DA-5548-BD4F-F3FA1773C7F4.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/E901075A-FBAE-F945-98D3-53274293BBBA.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/7C332557-A33F-3F43-AA8D-FF572D77B998.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/519CC9F5-9E9F-744C-B1DE-B2813114E04F.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/214B1926-09DD-F340-80CE-5E9A754C9087.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/327A1823-0675-2B47-B6B4-5EA2959CF663.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/4577B16C-E829-CE4D-98ED-EC4581F1061B.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/FDB09A25-6D9B-9244-9D64-E3E476F10B72.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/C398EA92-61DA-254D-A496-5888E08EF283.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/AAD89A40-2550-9A40-9434-3919F3C1D9B0.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/0813A08F-C089-1144-B2F8-D41B152282AE.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/32FD6411-0206-8745-9EF4-D394970E79F9.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/68FF4927-D799-5243-B776-181A5A814D07.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/DF0EB6AC-6DE9-2648-9345-2B7A3B3F2525.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/DE772609-30F5-1549-800B-4C68FC9F811A.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/C398EA92-61DA-254D-A496-5888E08EF283.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/55A55216-157C-B748-82DD-6FEE244CFD49.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/763F15B8-3C85-ED43-AF44-89D2D0269292.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/191700E6-696E-1D43-A812-12A9F6D3C112.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/7DE02517-BCEF-7442-BD33-E470A8830EED.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/CEB2487B-B027-514B-BDA7-08CC31AFD4D4.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/CA7C220B-B8DA-5548-BD4F-F3FA1773C7F4.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/E901075A-FBAE-F945-98D3-53274293BBBA.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/7C332557-A33F-3F43-AA8D-FF572D77B998.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/519CC9F5-9E9F-744C-B1DE-B2813114E04F.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/214B1926-09DD-F340-80CE-5E9A754C9087.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/327A1823-0675-2B47-B6B4-5EA2959CF663.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/4577B16C-E829-CE4D-98ED-EC4581F1061B.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/FDB09A25-6D9B-9244-9D64-E3E476F10B72.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/57DD66A9-2321-9440-99CF-804A142697D7.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_5_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/AAD89A40-2550-9A40-9434-3919F3C1D9B0.root"
+        ],
+        "missing_lfns": []
+    },
+    "GluGluToHHTo2B2Tau_node_6": {
+        "das_total": 19,
+        "total": 19,
+        "done": 19,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124811",
+            "231006_080331"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/6FFCB806-313F-4546-9C7B-6451C1127A86.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/53E05659-215E-DE48-812A-717BD44B0444.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/0A548028-685D-FC4C-A1B6-9236DDFABCA4.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/1D1A0026-E87A-0448-9494-0BA488A8C11C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/9A7710DB-95DC-2A44-AD3A-181A5F9AE060.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/BCC08100-3944-F745-8E64-CA3DF6F3D73C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/44D07890-E8E0-3F46-AC1A-65F08331B7C8.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/5F1923A8-AEA5-924F-B855-DF5163F2DB51.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/F9B6CCC7-81CC-7B46-B4BD-8783D4342F41.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/442F2C40-D05A-E742-BA1C-65187B0FA8E9.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/F481DBBD-C671-A248-8138-779E3B465E5A.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/E3B5E848-8DF6-2740-A341-CC0A1BC1E518.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/C7358E59-300B-EA49-B9C1-85FF0E48B914.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/A5105D86-F269-6049-8711-50558C130DA0.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/7A42BF7F-AC09-7B48-BBCE-8642E8FE0093.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/63C90CCA-34A1-9341-95F7-8A7954893BF6.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/CC7EE04D-0365-0F4E-AFBE-28D0D3BAA065.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/48DA5F5D-45F4-FB4C-9542-2DB9710B5133.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/49887724-B5A8-CA47-8200-F3DC0D9BBE06.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/6FFCB806-313F-4546-9C7B-6451C1127A86.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/53E05659-215E-DE48-812A-717BD44B0444.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/0A548028-685D-FC4C-A1B6-9236DDFABCA4.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/9A7710DB-95DC-2A44-AD3A-181A5F9AE060.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/1D1A0026-E87A-0448-9494-0BA488A8C11C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/BCC08100-3944-F745-8E64-CA3DF6F3D73C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/44D07890-E8E0-3F46-AC1A-65F08331B7C8.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/5F1923A8-AEA5-924F-B855-DF5163F2DB51.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/F9B6CCC7-81CC-7B46-B4BD-8783D4342F41.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/442F2C40-D05A-E742-BA1C-65187B0FA8E9.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/F481DBBD-C671-A248-8138-779E3B465E5A.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/E3B5E848-8DF6-2740-A341-CC0A1BC1E518.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/C7358E59-300B-EA49-B9C1-85FF0E48B914.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/49887724-B5A8-CA47-8200-F3DC0D9BBE06.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/7A42BF7F-AC09-7B48-BBCE-8642E8FE0093.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/63C90CCA-34A1-9341-95F7-8A7954893BF6.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/CC7EE04D-0365-0F4E-AFBE-28D0D3BAA065.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/48DA5F5D-45F4-FB4C-9542-2DB9710B5133.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_6_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2520000/A5105D86-F269-6049-8711-50558C130DA0.root"
+        ],
+        "missing_lfns": []
+    },
+    "GluGluToHHTo2B2Tau_node_7": {
+        "das_total": 12,
+        "total": 12,
+        "done": 12,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124816",
+            "231006_080348"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/183A3BB5-859C-D34C-9B61-B42E5459C1F7.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/7F5886C7-8011-574B-B502-B209D7FDA893.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/62DE04E9-B62E-C34F-B953-04C879C2C237.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/D86DBE99-8FAE-EF47-BAA4-9CB10E25B890.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/DE6AA5E5-8AF7-4D46-AC6B-FFC770189B76.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/521A9FB1-F11D-6145-B2AF-96445FFF97CC.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/01AE399C-44D0-C940-A649-A6EB01E8EBDB.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/AE225074-DF09-4F4D-8E9F-7B6E451DAF80.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/904A3EF4-0F86-BB42-8256-F90992EC7A4F.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/C917FFE3-BEB8-354E-B69C-0525D8C7D62D.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/3B41DEA1-C32B-2244-B2D8-E134650C50C2.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/CB001C80-3B93-244E-9DB9-FCFB07CB5EF6.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/183A3BB5-859C-D34C-9B61-B42E5459C1F7.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/7F5886C7-8011-574B-B502-B209D7FDA893.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/D86DBE99-8FAE-EF47-BAA4-9CB10E25B890.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/3B41DEA1-C32B-2244-B2D8-E134650C50C2.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/DE6AA5E5-8AF7-4D46-AC6B-FFC770189B76.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/01AE399C-44D0-C940-A649-A6EB01E8EBDB.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/AE225074-DF09-4F4D-8E9F-7B6E451DAF80.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/521A9FB1-F11D-6145-B2AF-96445FFF97CC.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/904A3EF4-0F86-BB42-8256-F90992EC7A4F.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/C917FFE3-BEB8-354E-B69C-0525D8C7D62D.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/62DE04E9-B62E-C34F-B953-04C879C2C237.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_7_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/CB001C80-3B93-244E-9DB9-FCFB07CB5EF6.root"
+        ],
+        "missing_lfns": []
+    },
+    "GluGluToHHTo2B2Tau_node_8": {
+        "das_total": 15,
+        "total": 15,
+        "done": 15,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124820",
+            "231006_080405"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/E65ECBE7-E95C-4445-AC90-060472BA91B0.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/012DAD72-94E2-C642-A0F3-6AA203BA0231.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/77205DEA-39DE-6944-BDAE-52D482459144.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/FB5828D4-572B-564E-91FF-879E2E8B1059.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/64E8E623-D990-F64C-8C99-F9F5D8CBFBA7.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/A53D709C-5011-1140-8F13-62066BF65CDA.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/4E66CADE-A5CD-D24A-A69F-2D582D613BE5.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/0E001C7E-30D8-B64D-B31E-35A87710B6E4.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/2631C72B-15CC-B747-8F0B-831C9A6ED4DF.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/7E4204E7-A09B-AE48-85B7-C39A338ABA75.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/00A607FB-AD22-A547-9060-F65A4330FBEA.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/44C5143D-8C5D-C14B-9D8F-0EFA17D61090.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/90D9E7DE-1C84-514A-A79E-C8B7AB2CE825.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/63A206E3-3334-3B41-9238-DCEAAB4D6E38.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/8D1B52A9-D17A-6945-9083-DBF88C805560.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/E65ECBE7-E95C-4445-AC90-060472BA91B0.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/FB5828D4-572B-564E-91FF-879E2E8B1059.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/77205DEA-39DE-6944-BDAE-52D482459144.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/012DAD72-94E2-C642-A0F3-6AA203BA0231.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/64E8E623-D990-F64C-8C99-F9F5D8CBFBA7.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/A53D709C-5011-1140-8F13-62066BF65CDA.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/4E66CADE-A5CD-D24A-A69F-2D582D613BE5.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/0E001C7E-30D8-B64D-B31E-35A87710B6E4.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/2631C72B-15CC-B747-8F0B-831C9A6ED4DF.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/7E4204E7-A09B-AE48-85B7-C39A338ABA75.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/00A607FB-AD22-A547-9060-F65A4330FBEA.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/44C5143D-8C5D-C14B-9D8F-0EFA17D61090.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/90D9E7DE-1C84-514A-A79E-C8B7AB2CE825.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/63A206E3-3334-3B41-9238-DCEAAB4D6E38.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_8_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/8D1B52A9-D17A-6945-9083-DBF88C805560.root"
+        ],
+        "missing_lfns": []
+    },
+    "GluGluToHHTo2B2Tau_node_9": {
+        "das_total": 13,
+        "total": 13,
+        "done": 13,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124825",
+            "231006_080422"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/DACF8BDD-BB16-8746-AE0D-F1577300352C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/85ADEC24-20C7-5744-930D-D63F7EB7FE44.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/DFECBC8A-BD68-E746-822A-3494DAB1A24D.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/EA589C18-A7FA-0C4E-9E08-5FFB5B75F0CB.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/D0648517-EB7F-9A43-BA7C-7B04D8F8B581.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/E987057B-A8A5-F44F-AF35-6694280DB114.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/72A13948-5B75-7948-A671-4DBB6E8C5D47.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/1CC6842E-F03E-7149-A2DB-E4CADE27B88A.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/699781B5-BFB0-994D-BDA1-E89AF24D396D.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/F1FAF48E-B15C-F749-B53E-491C4611B90D.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/4046BB14-8071-FA4A-8B43-2B11BCB7AF8D.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/B4DF1293-253F-C044-A410-C72E0303D0BC.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/6F15210D-6C34-0440-AA80-946EE3E528E8.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/DACF8BDD-BB16-8746-AE0D-F1577300352C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/85ADEC24-20C7-5744-930D-D63F7EB7FE44.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/DFECBC8A-BD68-E746-822A-3494DAB1A24D.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/EA589C18-A7FA-0C4E-9E08-5FFB5B75F0CB.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/D0648517-EB7F-9A43-BA7C-7B04D8F8B581.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/E987057B-A8A5-F44F-AF35-6694280DB114.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/72A13948-5B75-7948-A671-4DBB6E8C5D47.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/1CC6842E-F03E-7149-A2DB-E4CADE27B88A.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/699781B5-BFB0-994D-BDA1-E89AF24D396D.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/F1FAF48E-B15C-F749-B53E-491C4611B90D.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/4046BB14-8071-FA4A-8B43-2B11BCB7AF8D.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/B4DF1293-253F-C044-A410-C72E0303D0BC.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_9_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/40000/6F15210D-6C34-0440-AA80-946EE3E528E8.root"
+        ],
+        "missing_lfns": []
+    },
+    "GluGluToHHTo2B2Tau_node_10": {
+        "das_total": 16,
+        "total": 16,
+        "done": 16,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124830"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/1FB555FF-EF8E-1D46-9538-8A849E599AB1.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/A6869EB0-8A4F-D441-8FCA-3D15C5489418.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/4F4858EB-7E3D-3543-9F74-3CB2DF30804C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/9E642D6C-594A-B242-B96D-064508C947E9.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/8AFED2F0-48B0-AA4C-916D-D07CAD136748.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/EFB7509C-7D13-9A41-BA54-30621BE399F0.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/EBDF90A8-A930-3D4E-84A7-0FA32C3CE989.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/F8D4342D-35FD-7148-8B01-84DB8A5AAB89.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/BF11480D-C93D-EB45-B97B-B3E807C300DB.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/B1434276-32E8-4F41-896A-37D1E4D427E6.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/51BE9912-2563-DA42-AF29-EB88F081B361.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/737C0CBE-D512-3A48-9E2D-2560E0BE03C0.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/7F9714E3-83B2-5C4E-9147-C7C42976428E.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/6E64E73B-C283-2044-9B62-6337252160BF.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/978094AC-04CA-5243-A9AC-EC525D1A3521.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/B5B8E927-6B37-C542-AAEA-F8F2B4C38302.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/1FB555FF-EF8E-1D46-9538-8A849E599AB1.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/A6869EB0-8A4F-D441-8FCA-3D15C5489418.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/4F4858EB-7E3D-3543-9F74-3CB2DF30804C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/9E642D6C-594A-B242-B96D-064508C947E9.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/8AFED2F0-48B0-AA4C-916D-D07CAD136748.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/EFB7509C-7D13-9A41-BA54-30621BE399F0.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/EBDF90A8-A930-3D4E-84A7-0FA32C3CE989.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/F8D4342D-35FD-7148-8B01-84DB8A5AAB89.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/BF11480D-C93D-EB45-B97B-B3E807C300DB.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/B1434276-32E8-4F41-896A-37D1E4D427E6.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/737C0CBE-D512-3A48-9E2D-2560E0BE03C0.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/51BE9912-2563-DA42-AF29-EB88F081B361.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/7F9714E3-83B2-5C4E-9147-C7C42976428E.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/6E64E73B-C283-2044-9B62-6337252160BF.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/978094AC-04CA-5243-A9AC-EC525D1A3521.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_10_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2430000/B5B8E927-6B37-C542-AAEA-F8F2B4C38302.root"
+        ],
+        "missing_lfns": []
+    },
+    "GluGluToHHTo2B2Tau_node_11": {
+        "das_total": 6,
+        "total": 6,
+        "done": 6,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124837",
+            "231006_080439"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/2526AD64-FE84-944B-A104-5F05B4A1E9CD.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/B2F55DE6-4631-8744-BDE5-A40C9E8B46DE.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/BA892881-3683-5548-90F8-D8287BB3565C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/6BF35909-6ECF-0E4C-8A27-2035E86E7EB6.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/E1375431-8EF3-2E4D-90FD-964C0A855DB7.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/1C5DD8B2-A4C6-354F-92F8-06B248685A50.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/2526AD64-FE84-944B-A104-5F05B4A1E9CD.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/B2F55DE6-4631-8744-BDE5-A40C9E8B46DE.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/BA892881-3683-5548-90F8-D8287BB3565C.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/6BF35909-6ECF-0E4C-8A27-2035E86E7EB6.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/E1375431-8EF3-2E4D-90FD-964C0A855DB7.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_11_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/2530000/1C5DD8B2-A4C6-354F-92F8-06B248685A50.root"
+        ],
+        "missing_lfns": []
+    },
+    "GluGluToHHTo2B2Tau_node_12": {
+        "das_total": 6,
+        "total": 6,
+        "done": 6,
+        "missing": 0,
+        "time_stamps": [
+            "231005_124842"
+        ],
+        "total_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/94C7AAAE-BC00-1149-9A7C-3081FC7073DB.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/B36A2E90-DB8F-5841-B2ED-76C134B401B3.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/3A6E8418-5A15-CC46-B990-2E354AB103B4.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/6B99902E-F733-BA4C-914B-714F84C25506.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/1D7FF2ED-261F-0247-B00F-8DDBD5C1256D.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/8B73965F-5B81-EA4D-AF63-C6C2AFCE2CB2.root"
+        ],
+        "done_lfns": [
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/94C7AAAE-BC00-1149-9A7C-3081FC7073DB.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/B36A2E90-DB8F-5841-B2ED-76C134B401B3.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/3A6E8418-5A15-CC46-B990-2E354AB103B4.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/6B99902E-F733-BA4C-914B-714F84C25506.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/1D7FF2ED-261F-0247-B00F-8DDBD5C1256D.root",
+            "/store/mc/RunIISummer20UL16MiniAODAPVv2/GluGluToHHTo2B2Tau_TuneCP5_PSWeights_node_12_13TeV-madgraph-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/8B73965F-5B81-EA4D-AF63-C6C2AFCE2CB2.root"
+        ],
+        "missing_lfns": []
+    }
+}
