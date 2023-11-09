@@ -76,7 +76,10 @@ DYJetsToLL_M-50_amcatnloFXFX:
   remoteBase: ana_v1
   sampleType: mc
   timestamps:
-  - ''
+  - '231002_140115'
+  - '231004_084922'
+  - '231006_075935'
+  - '231009_155635'
 config:
   params:
     era: Run2_2016_HIPM
