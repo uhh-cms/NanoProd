@@ -1,0 +1,6 @@
+ST_t-channel_top:
+  miniAOD: 
+  remoteBase: ana_v1
+  sampleType: mc
+  timestamps:
+  - ''
