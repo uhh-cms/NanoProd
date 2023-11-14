@@ -84,27 +84,6 @@ config:
   # timestamps:
     # - ""
 
-
-
-ZZ:
-  miniAOD: /ZZ_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: bogdan_v1
-  timestamps:
-    - ""
-WW:
-  miniAOD: /WW_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: bogdan_v1
-  timestamps:
-    - ""
-WZ:
-  miniAOD: /WZ_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: bogdan_v1
-  timestamps:
-    - ""
-
 # Ich habe mit Marcel geredet, extensions sind eigentlich exclusive, wir sollten also beide prozessieren (Bog)
 # Wenn die extension sowieso deutlich mehr Statistik haben sollte, könnte es auch reichen nur die zu prozessieren, oder nicht? (Tobias)
 # Die extensions haben deutlich mehr Statistik (bsp: WWW hat: ext: 9894000, non-ext: 240000 (Bog) Ich nehm einfach beide mit.
@@ -148,33 +127,33 @@ WWW_ext:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231023_104141"
 
 WZZ:
   miniAOD: /WZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231023_104155"
 
 WZZ_ext:
   miniAOD: /WZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231023_104200"
 
 ZZZ:
   miniAOD: /ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231023_104205"
 
 ZZZ_ext:
   miniAOD: /ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231023_104210"
 

@@ -9,96 +9,139 @@ WW:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191733"
+    - "231004_104851"
+    - "231006_115602"
+    - "231009_191515"
+    - []
+    - []
+    - "231015_165056"
 
 WWTo1L1Nu2Q:
   miniAOD: /WWTo1L1Nu2Q_4f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191737"
+    - "231004_105716"
+    - "231006_115643"
+    - "231009_191717"
 
 WWTo2L2Nu:
   miniAOD: /WWTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191742"
+    - "231004_105836"
+    - "231006_115707"
+    - "231009_191749"
 
 WWTo4Q:
   miniAOD: /WWTo4Q_4f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191749"
+    - "231004_110130"
+    - "231006_120105"
+    - "231009_191905"
 
 WZ:
   miniAOD: /WZ_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191754"
+    - "230925_134405"
+    - "230926_140831"
 
 WZTo1L1Nu2Q:
   miniAOD: /WZTo1L1Nu2Q_4f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    -  "230921_191758"
+    -  "230925_134621"
+    -  "231004_110207"
+    -  "231006_120117"
 
 WZTo2Q2L:
   miniAOD: /WZTo2Q2L_mllmin4p0_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191817"
+    - "230925_135231"
+    - "231004_110356"
+    - "231006_120128"
 
 WZTo3LNu:
   miniAOD: /WZTo3LNu_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191823"
+    - "230925_135400"
 
 ZZ:
   miniAOD: /ZZ_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191827"
+    - "230925_135435"
 
 ZZTo2L2Nu:
   miniAOD: /ZZTo2L2Nu_TuneCP5_13TeV_powheg_pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191831"
+    - "231004_110825"
+    - "231006_120453"
+    - "231009_192051"
+    - []
+    - "231014_072931"
 
 ZZTo2Q2L:
   miniAOD: /ZZTo2Q2L_mllmin4p0_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191836"
+    - "231004_111719"
+    - "231006_120515"
+    - "231009_192113"
 
 ZZTo2Q2Nu:
   miniAOD: /ZZTo2Q2Nu_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191840"
+    - "230926_141348"
+    - []
+    - "231006_120524"
 
 ZZTo4L:
   miniAOD: /ZZTo4L_TuneCP5_13TeV_powheg_pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191844"
+    - "231004_112533"
+    - "231006_121220"
+    - "231009_192358"
+    - "231013_100224"
+    - []
+    - "231015_165126"
 
 ZZTo4Q:
   miniAOD: /ZZTo4Q_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191848"
+    - "230926_141538"
 

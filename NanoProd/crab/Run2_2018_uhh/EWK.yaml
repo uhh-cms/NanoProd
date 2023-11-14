@@ -10,19 +10,22 @@ EWKWMinus2Jets_WToLNu_M-50:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    -  "230921_191550"
+    -  "230925_112053"
 
 EWKWPlus2Jets_WToLNu_M-50:
   miniAOD: /EWKWPlus2Jets_WToLNu_M-50_TuneCP5_withDipoleRecoil_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191555"
+    - "230925_112153"
 
 EWKZ2Jets_ZToLL_M-50:
   miniAOD: /EWKZ2Jets_ZToLL_M-50_TuneCP5_withDipoleRecoil_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191600"
+    - "230922_080252"
 

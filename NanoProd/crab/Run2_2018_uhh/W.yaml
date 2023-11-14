@@ -9,63 +9,92 @@ WJetsToLNu:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133210"
+    - "230921_180722"
+    - "231001_173649"
+    - "231004_092626"
 
 WJetsToLNu_HT-70To100:
   miniAOD: /WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133216"
+    - "230921_182336"
+    - "230926_125418"
+    - "231001_175044"
 
 WJetsToLNu_HT-100To200:
   miniAOD: /WJetsToLNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133220"
+    - "230921_183626"
+    - "230925_104852"
+    - "230926_125446"
 
 WJetsToLNu_HT-200To400:
   miniAOD: /WJetsToLNu_HT-200To400_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133225"
+    - "230921_184700"
+    - "231001_175648"
+    - "231004_092714"
+    - "231013_100039"
+    - []
+    - "231015_164911"
 
 WJetsToLNu_HT-400To600:
   miniAOD: /WJetsToLNu_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133236"
+    - "230921_184918"
+    - "230925_104928"
 
 WJetsToLNu_HT-600To800:
   miniAOD: /WJetsToLNu_HT-600To800_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133241"
+    - "230921_185127"
+    - "230926_125516"
+    - "231001_175758"
 
 WJetsToLNu_HT-800To1200:
   miniAOD: /WJetsToLNu_HT-800To1200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133245"
+    - "230921_185224"
+    - []
+    - "231004_092828"
 
 WJetsToLNu_HT-1200To2500:
   miniAOD: /WJetsToLNu_HT-1200To2500_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133249"
+    - "230921_185250"
+    - "230926_125829"
+    - "231001_180141"
 
 WJetsToLNu_HT-2500ToInf:
   miniAOD: /WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133253"
+    - "230921_185400"
+    - "230926_125841"
+    - "231001_180231"
 
 
 WToTauNu_M-200:
@@ -73,12 +102,15 @@ WToTauNu_M-200:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133257"
 
 WToMuNu_M-200:
   miniAOD: /WToMuNu_M-200_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133301"
+    - []
+    - "230926_125849"
+    - "231001_180301"
 
