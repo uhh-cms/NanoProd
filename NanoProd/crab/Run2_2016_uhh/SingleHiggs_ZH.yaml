@@ -1,0 +1,27 @@
+ggZH_HToBB_ZToLL:
+  miniAOD: /ggZH_HToBB_ZToLL_M-125_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - 
+
+ZH_HToBB_ZToLL:
+  miniAOD: /ZH_HToBB_ZToLL_M-125_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - 
+
+ZH_HToBB_ZToQQ:
+  miniAOD: /ZH_HToBB_ZToQQ_M-125_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - 
+
+config:
+  params:
+    era: Run2_2016
+    sampleType: mc
+    storeFailed: true
+

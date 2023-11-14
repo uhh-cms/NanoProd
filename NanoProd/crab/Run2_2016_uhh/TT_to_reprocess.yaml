@@ -1,0 +1,12 @@
+TTToHadronic:
+  miniAOD: /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - 
+
+config:
+  params:
+    era: Run2_2016
+    sampleType: mc
+    storeFailed: true

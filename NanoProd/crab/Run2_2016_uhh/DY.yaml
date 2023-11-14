@@ -1,79 +1,114 @@
-config:
-  params:
-    sampleType: mc
-    era: Run2_2016
-    storeFailed: True
-
-# inclusive
-DYJetsToLL_M-50_amcatnloFXFX:
-  miniAOD: /DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-# n_jet binned
 DYJetsToLL_0J_amcatnloFXFX:
   miniAOD: /DYJetsToLL_0J_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_104107'
+  - '230906_151552'
+  - '230907_131848'
+  - '230908_201811'
 
 DYJetsToLL_1J_amcatnloFXFX:
+  ignore_miniAOD_LFNs:
+  - /store/mc/RunIISummer20UL16MiniAODv2/DYJetsToLL_1J_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_v17-v1/30000/223D68EB-8E7A-1D43-AD21-1CCD38075413.root
   miniAOD: /DYJetsToLL_1J_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_104111'
+  - '230906_152607'
+  - '230907_173343'
+  - '230908_202629'
+  - []
+  - '230922_145358'
 
 DYJetsToLL_2J_amcatnloFXFX:
+  ignore_miniAOD_LFNs:
+  - /store/mc/RunIISummer20UL16MiniAODv2/DYJetsToLL_2J_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_v17-v1/120000/F5067DBB-CAB0-8040-942B-CFECA8F70D22.root
+  - /store/mc/RunIISummer20UL16MiniAODv2/DYJetsToLL_2J_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_v17-v1/70000/131B735B-1BB5-7D43-A159-3F021DDD1A6F.root
   miniAOD: /DYJetsToLL_2J_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_104116'
+  - '230906_153340'
+  - '230907_132308'
+  - '230908_203035'
+  - []
 
-# LHE Z pt binned
 DYJetsToLL_LHEFilterPtZ-0To50:
-  miniAOD:  /DYJetsToLL_LHEFilterPtZ-0To50_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
+  miniAOD: /DYJetsToLL_LHEFilterPtZ-0To50_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-DYJetsToLL_LHEFilterPtZ-50To100:
-  miniAOD: /DYJetsToLL_LHEFilterPtZ-50To100_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
+  - '230904_104120'
+  - '230906_155641'
+  - '230907_193621'
+  - '230908_204432'
 
 DYJetsToLL_LHEFilterPtZ-100To250:
   miniAOD: /DYJetsToLL_LHEFilterPtZ-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_104129'
+  - '230906_161947'
+  - '230907_133158'
+  - '230908_210346'
 
 DYJetsToLL_LHEFilterPtZ-250To400:
   miniAOD: /DYJetsToLL_LHEFilterPtZ-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_104134'
+  - '230906_162551'
 
 DYJetsToLL_LHEFilterPtZ-400To650:
   miniAOD: /DYJetsToLL_LHEFilterPtZ-400To650_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_104138'
+  - '230906_162700'
+  - '230907_053603'
+  - '230907_201535'
+
+DYJetsToLL_LHEFilterPtZ-50To100:
+  miniAOD: /DYJetsToLL_LHEFilterPtZ-50To100_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_104125'
+  - '230906_161008'
+  - '230908_205600'
 
 DYJetsToLL_LHEFilterPtZ-650ToInf:
   miniAOD: /DYJetsToLL_LHEFilterPtZ-650ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_104142'
+  - '230906_162838'
 
+DYJetsToLL_M-50_amcatnloFXFX:
+  ignore_miniAOD_LFNs:
+  - /store/mc/RunIISummer20UL16MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_v17-v1/270000/73067A32-E044-8E4A-8DDD-93A4925D4AD8.root
+  - /store/mc/RunIISummer20UL16MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_v17-v1/270000/C221DC7F-027A-AF43-B7BA-1E48E4EA6514.root
+  - /store/mc/RunIISummer20UL16MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_v17-v1/270000/FF0FCBE6-2B06-D74F-9A25-D946E8EB0C91.root
+  - /store/mc/RunIISummer20UL16MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_v17-v1/270000/3F03D71E-0E61-8945-90D1-E866B479DE55.root
+  miniAOD: /DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_104103'
+  - '230906_150407'
+  - '230907_201405'
+  - []
+  - []
+
+config:
+  params:
+    era: Run2_2016
+    sampleType: mc
+    storeFailed: true

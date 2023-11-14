@@ -1,92 +1,122 @@
-config:
-  params:
-    sampleType: mc
-    era: Run2_2016
-    storeFailed: True
-
-ST_tW_antitop_5f_inclusiveDecays:
-  miniAOD: /ST_tW_antitop_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-ST_tW_top_5f_inclusiveDecays:
-  miniAOD: /ST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
 ST_t-channel_antitop_4f_InclusiveDecays:
   miniAOD: /ST_t-channel_antitop_5f_InclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-ST_t-channel_top_4f_InclusiveDecays:
-  miniAOD: /ST_t-channel_top_5f_InclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
   sampleType: mc
-  remoteBase: nathan_v1
   timestamps:
-    - ""
-
-
-# Tune up/down
-ST_t-channel_top_4f_InclusiveDecays_tune_down:
-  miniAOD: /ST_t-channel_top_4f_InclusiveDecays_TuneCP5down_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-ST_t-channel_top_4f_InclusiveDecays_tune_up:
-  miniAOD: /ST_t-channel_top_4f_InclusiveDecays_TuneCP5up_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-ST_t-channel_top_4f_InclusiveDecays_mtop171p5:
-  miniAOD: /ST_t-channel_top_4f_InclusiveDecays_mtop1715_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-ST_t-channel_top_4f_InclusiveDecays_mtop173p5:
-  miniAOD: /ST_t-channel_top_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-ST_t-channel_antitop_4f_InclusiveDecays_tune_up:
-  miniAOD: /ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5up_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
-
-ST_t-channel_antitop_4f_InclusiveDecays_tune_down:
-  miniAOD: /ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5down_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
-  sampleType: mc
-  remoteBase: nathan_v1
-  timestamps:
-    - ""
+  - '230904_111032'
+  - '230906_195714'
+  - '230908_210943'
+  - '230917_121836'
 
 ST_t-channel_antitop_4f_InclusiveDecays_mtop171p5:
   miniAOD: /ST_t-channel_antitop_4f_InclusiveDecays_mtop1715_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_111107'
+  - '230906_203817'
+  - '230907_204739'
 
 ST_t-channel_antitop_4f_InclusiveDecays_mtop173p5:
   miniAOD: /ST_t-channel_antitop_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
-  sampleType: mc
   remoteBase: nathan_v1
+  sampleType: mc
   timestamps:
-    - ""
+  - '230904_111111'
+  - '230906_204138'
+  - '230907_204955'
 
+ST_t-channel_antitop_4f_InclusiveDecays_tune_down:
+  miniAOD: /ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5down_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111102'
+  - '230906_203439'
+  - '230907_204411'
+  - []
+  - '231016_110923'
+
+ST_t-channel_antitop_4f_InclusiveDecays_tune_up:
+  ignore_miniAOD_LFNs:
+  - /store/mc/RunIISummer20UL16MiniAODv2/ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5up_13TeV-powheg-madspin-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_v17-v3/120000/A95A0233-F90B-2F48-8146-330EB2C1FF04.root
+  miniAOD: /ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5up_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111058'
+  - '230906_203119'
+  - []
+  - []
+  - []
+
+ST_t-channel_top_4f_InclusiveDecays:
+  miniAOD: /ST_t-channel_top_5f_InclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111036'
+  - '230906_200305'
+  - '230908_211627'
+  - '230917_121923'
+
+ST_t-channel_top_4f_InclusiveDecays_mtop171p5:
+  miniAOD: /ST_t-channel_top_4f_InclusiveDecays_mtop1715_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111049'
+  - '230906_202153'
+  - '230907_203636'
+  - '230908_212423'
+
+ST_t-channel_top_4f_InclusiveDecays_mtop173p5:
+  miniAOD: /ST_t-channel_top_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111054'
+  - '230906_202754'
+  - '230907_204057'
+  - '230908_212836'
+
+ST_t-channel_top_4f_InclusiveDecays_tune_down:
+  miniAOD: /ST_t-channel_top_4f_InclusiveDecays_TuneCP5down_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111040'
+  - '230906_200904'
+
+ST_t-channel_top_4f_InclusiveDecays_tune_up:
+  miniAOD: /ST_t-channel_top_4f_InclusiveDecays_TuneCP5up_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v3/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111044'
+  - '230906_201554'
+  - '230907_203245'
+  - '230908_212056'
+
+ST_tW_antitop_5f_inclusiveDecays:
+  miniAOD: /ST_tW_antitop_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111023'
+  - '230906_195314'
+
+ST_tW_top_5f_inclusiveDecays:
+  miniAOD: /ST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM
+  remoteBase: nathan_v1
+  sampleType: mc
+  timestamps:
+  - '230904_111027'
+  - '230906_195332'
+  - '230907_202813'
+
+config:
+  params:
+    era: Run2_2016
+    sampleType: mc
+    storeFailed: true

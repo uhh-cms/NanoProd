@@ -1,46 +1,50 @@
-TTWJetsToLNu:
-  miniAOD: /TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
-  remoteBase: ana_v1
-  sampleType: mc
-  timestamps:
-  - '231013_114144'
-  - []
-  - []
-  - '231020_143910'
-TTWJetsToQQ:
-  miniAOD: /TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
-  remoteBase: ana_v1
-  sampleType: mc
-  timestamps:
-  - '231013_114148'
-TTWW:
-  miniAOD: /TTWW_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
-  remoteBase: ana_v1
-  sampleType: mc
-  timestamps:
-  - '231013_114156'
-  - '231014_080739'
-TTWZ:
-  miniAOD: /TTWZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
-  remoteBase: ana_v1
-  sampleType: mc
-  timestamps:
-  - '231013_114205'
-TTZToLLNuNu:
-  miniAOD: /TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
-  remoteBase: ana_v1
-  sampleType: mc
-  timestamps:
-  - '231013_114152'
-  - '231016_100625'
-TTZZ:
-  miniAOD: /TTZZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
-  remoteBase: ana_v1
-  sampleType: mc
-  timestamps:
-  - '231013_114200'
 config:
   params:
-    era: Run2_2016_HIPM
     sampleType: mc
-    storeFailed: true
+    era: Run2_2016_HIPM
+    storeFailed: True
+
+TTWJetsToLNu:
+  miniAOD: /TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
+
+TTWJetsToQQ:
+  miniAOD: /TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
+
+TTZToLLNuNu:
+  miniAOD: /TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
+
+TTWW:
+  miniAOD: /TTWW_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
+
+TTZZ:
+  miniAOD: /TTZZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
+
+TTWZ:
+  miniAOD: /TTWZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
+
+
+

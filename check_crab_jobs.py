@@ -1,6 +1,7 @@
 import os
 import sys
 import json
+import yaml
 
 from argparse import ArgumentParser, RawDescriptionHelpFormatter
 from tqdm import tqdm
@@ -283,6 +284,7 @@ def check_crab_directory(
         suffix = "_"+suffix
     crab_dirname = f"crab_{sample_name}"+suffix
     crab_dir = os.path.join(sample_dir, crab_dirname)
+    # from IPython import embed; embed()
     if not os.path.exists(crab_dir):
         if verbosity >= 1:
             print(f"Directory {crab_dir} does not exist, will stop looking here")
@@ -539,8 +541,6 @@ def main(*args,
         # set of relevant time stamps (needed for later merging of files)
         time_stamps = list()
 
-        
-
         # loop through suffices to load the respective crab base directories
         pbar_suffix = tqdm(zip(suffices, status_files))
         for suffix, status_file in pbar_suffix:
@@ -559,6 +559,15 @@ def main(*args,
                 event_lookup=event_lookup,
                 **kwargs,
             )
+
+        # reduce known_lfns with the ignored lfns
+        with open(sample_config, "r") as f:
+            config_file_inputs=yaml.safe_load(f)
+        ignored_files=config_file_inputs[sample_name].get("ignore_miniAOD_LFNs")
+        if ignored_files :
+            print("found files to ignore")
+            known_lfns = known_lfns - set(ignored_files)
+            n_total = len(known_lfns)
         
         local_job_infos = local_job_summary_dict.get(sample_name)
         if local_job_infos:
