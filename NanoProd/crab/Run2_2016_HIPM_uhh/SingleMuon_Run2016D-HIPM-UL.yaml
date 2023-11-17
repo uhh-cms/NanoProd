@@ -1,0 +1,15 @@
+config:
+  params:
+    sampleType: data
+    era: Run2_2016_HIPM
+    storeFailed: False
+
+ # lumiMask: /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions16/13TeV/Legacy_2016/Cert_271036-284044_13TeV_Legacy2016_Collisions16_JSON.txt
+
+# single muon
+SingleMuon_Run2016D-HIPM-UL:
+  miniAOD: /SingleMuon/Run2016D-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - ""
