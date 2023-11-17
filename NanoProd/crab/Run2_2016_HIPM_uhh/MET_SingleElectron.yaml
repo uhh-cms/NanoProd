@@ -1,0 +1,118 @@
+config:
+  params:
+    sampleType: data
+    era: Run2_2016_HIPM
+    storeFailed: False
+
+ # lumiMask: /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions16/13TeV/Legacy_2016/Cert_271036-284044_13TeV_Legacy2016_Collisions16_JSON.txt
+
+# single electron
+SingleElectron_Run2016B-ver2_HIPM-UL:
+  miniAOD: /SingleElectron/Run2016B-ver2_HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_110203"
+    - "231107_100011"
+    - "231110_111511"
+    - "231115_155515"
+    - "231116_123919"
+    - ""
+
+SingleElectron_Run2016C-HIPM-UL:
+  miniAOD: /SingleElectron/Run2016C-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_110210"
+    - "231026_124453"
+    - "231107_100134"
+    - "231110_111555"
+    - "231115_163820"
+
+SingleElectron_Run2016D-HIPM-UL:
+  miniAOD: /SingleElectron/Run2016D-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_110218"
+    - "231026_130453"
+    - "231030_114112"
+    - "231108_133219"
+    - "231115_163827"
+
+SingleElectron_Run2016E-HIPM-UL:
+  miniAOD: /SingleElectron/Run2016E-HIPM_UL2016_MiniAODv2-v5/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_110224"
+    - "231027_133515"
+    - ""
+    - "231114_114530"
+    - "231115_163832"
+
+SingleElectron_Run2016F-HIPM-UL:
+  miniAOD: /SingleElectron/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_110230"
+    - "231026_132023"
+    - ""
+    - "231102_121252"
+    - "231115_163839"
+
+# MET
+MET_Run2016B-ver2_HIPM-UL:
+  miniAOD: /MET/Run2016B-ver2_HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_110309"
+    - "231107_101411"
+    - "231110_111718"
+    - "231116_124020"
+
+MET_Run2016C-HIPM-UL:
+  miniAOD: /MET/Run2016C-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_110315"
+    - "231102_115853"
+    - "231108_133306"
+    - "231110_131845"
+    - "231115_163906"
+
+MET_Run2016D-HIPM-UL:
+  miniAOD: /MET/Run2016D-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_110322"
+    - "231026_153541"
+    - "231030_114227"
+    - "231109_125640"
+    - "231115_163912"
+
+MET_Run2016E-HIPM-UL:
+  miniAOD: /MET/Run2016E-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_110330"
+    - "231026_154156"
+    - "231030_114329"
+    - "231109_125707"
+
+MET_Run2016F-HIPM-UL:
+  miniAOD: /MET/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_110336"
+    - "231026_154550"
+    - ""
+    - "231102_121347"
+
