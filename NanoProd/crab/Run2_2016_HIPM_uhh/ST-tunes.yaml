@@ -1,9 +1,3 @@
-ST_t-channel_antitop:
-  miniAOD: /ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v3/MINIAODSIM 
-  remoteBase: ana_v1
-  sampleType: mc
-  timestamps:
-  - ''
 ST_t-channel_antitop_4f_InclusiveDecays_mtop171p5:
   miniAOD: /ST_t-channel_antitop_4f_InclusiveDecays_mtop1715_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v3/MINIAODSIM
   remoteBase: ana_v1
@@ -36,12 +30,6 @@ ST_t-channel_antitop_4f_InclusiveDecays_tune_up:
   timestamps:
   - '231010_072823'
   - '231011_091329'
-ST_t-channel_top:
-  miniAOD: /ST_t-channel_top_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v3/MINIAODSIM
-  remoteBase: ana_v1
-  sampleType: mc
-  timestamps:
-  - ''
 ST_t-channel_top_4f_InclusiveDecays_mtop171p5:
   miniAOD: /ST_t-channel_top_4f_InclusiveDecays_mtop1715_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v3/MINIAODSIM
   remoteBase: ana_v1
