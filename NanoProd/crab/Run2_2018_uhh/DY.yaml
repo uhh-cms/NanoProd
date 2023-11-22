@@ -9,49 +9,66 @@ DYJetsToLL_M-10to50-madgraphMLM:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191606"
+    - "230926_131328"
+    - "231001_182644"
 
 DYJetsToLL_M-50-madgraphMLM:
   miniAOD: /DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191612"
+    - "230925_113654"
+    - "230926_131355"
 
 DYJetsToLL_M-50-madgraphMLM_ext1:
   miniAOD: /DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191616"
+    - "231001_185537"
+    - "231004_093127"
+    - "231006_100026"
 
 DY1JetsToLL_M-50-madgraphMLM:
   miniAOD: /DY1JetsToLL_M-50_MatchEWPDG20_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191622"
+    - "230926_131913"
+    - "231004_094757"
+    - "231006_100053"
 
 DY2JetsToLL_M-50-madgraphMLM:
   miniAOD: /DY2JetsToLL_M-50_MatchEWPDG20_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191626"
+    - "231004_095522"
+    - "231006_100132"
+    - "231009_190947"
 
 DY3JetsToLL_M-50-madgraphMLM:
   miniAOD: /DY3JetsToLL_M-50_MatchEWPDG20_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191632"
+    - "230925_114236"
+    - []
+    - "231006_100140"
 
 DY4JetsToLL_M-50-madgraphMLM:
   miniAOD: /DY4JetsToLL_M-50_MatchEWPDG20_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191636"
+    - "230925_114532"
 
 
 DYJetsToLL_M-50-amcatnloFXFX:
@@ -59,7 +76,11 @@ DYJetsToLL_M-50-amcatnloFXFX:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191640"
+    - "231004_101607"
+    - "231006_101507"
+    - "231009_191328"
+    - "231013_100142"
 
 
 DYJetsToLL_0J-amcatnloFXFX:
@@ -67,21 +88,30 @@ DYJetsToLL_0J-amcatnloFXFX:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191645"
+    - "230925_115558"
+    - "231004_101826"
+    - "231006_101535"
 
 DYJetsToLL_1J-amcatnloFXFX:
   miniAOD: /DYJetsToLL_1J_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191650"
+    - "231004_104250"
+    - "231006_115457"
+    - "231009_191409"
+    - "231013_100148"
 
 DYJetsToLL_2J-amcatnloFXFX:
   miniAOD: /DYJetsToLL_2J_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191654"
+    - "230925_121143"
+    - "230926_132039"
 
 
 DYJetsToLL_LHEFilterPtZ-0To50-amcatnloFXFX:
@@ -89,40 +119,50 @@ DYJetsToLL_LHEFilterPtZ-0To50-amcatnloFXFX:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191659"
+    - "230925_132736"
 
 DYJetsToLL_LHEFilterPtZ-50To100-amcatnloFXFX:
   miniAOD: /DYJetsToLL_LHEFilterPtZ-50To100_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191704"
+    - "230926_140459"
+    - "231004_104605"
+    - "231006_115515"
 
 DYJetsToLL_LHEFilterPtZ-100To250-amcatnloFXFX:
   miniAOD: /DYJetsToLL_LHEFilterPtZ-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191708"
+    - "230922_114033"
 
 DYJetsToLL_LHEFilterPtZ-250To400-amcatnloFXFX:
   miniAOD: /DYJetsToLL_LHEFilterPtZ-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191713"
+    - "230925_133853"
+    - []
+    - "231006_115523"
 
 DYJetsToLL_LHEFilterPtZ-400To650-amcatnloFXFX:
   miniAOD: /DYJetsToLL_LHEFilterPtZ-400To650_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191717"
+    - "230926_140741"
 
 DYJetsToLL_LHEFilterPtZ-650ToInf-amcatnloFXFX:
   miniAOD: /DYJetsToLL_LHEFilterPtZ-650ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230921_191728"
+    - "230925_134143"
 

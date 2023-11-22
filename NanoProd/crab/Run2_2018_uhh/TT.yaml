@@ -9,21 +9,26 @@ TTTo2L2Nu:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133028"
+    - "230920_154521"
+    - "230921_081146"
 
 TTToSemiLeptonic:
   miniAOD: /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+      - ""
 
 TTToHadronic:
   miniAOD: /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133039"
+    - "230921_093135"
+    - "230926_125010"
+    - "231001_103602"
 
 
 # Tune up/down
@@ -32,42 +37,58 @@ TTTo2L2Nu_tune_down:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133043"
+    - "230921_141807"
+    - "230925_103044"
+    - "231001_103617"
 
 TTTo2L2Nu_tune_up:
   miniAOD: /TTTo2L2Nu_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133047"
+    - "230920_160034"
+    - "230921_142223"
+    - "230925_103059"
 
 TTTo2L2Nu_hdamp_down:
   miniAOD: /TTTo2L2Nu_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133051"
+    - "230921_093951"
+    - "231001_104622"
+    - "231004_085609"
+    - "231013_095835"
 
 TTTo2L2Nu_hdamp_up:
   miniAOD: /TTTo2L2Nu_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133056"
+    - "230921_094515"
+    - "231001_105957"
+    - "231004_085648"
 
 TTTo2L2Nu_mtop171p5:
   miniAOD: /TTTo2L2Nu_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133100"
+    - "230921_095904"
 
 TTTo2L2Nu_mtop173p5:
   miniAOD: /TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133104"
+    - "230921_101121"
+    - "230925_103725"
 
 
 TTToHadronic_tune_down:
@@ -75,42 +96,61 @@ TTToHadronic_tune_down:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133109"
+    - "230921_105616"
+    - "230922_071320"
 
 TTToHadronic_tune_up:
   miniAOD: /TTToHadronic_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133113"
+    - "230921_111315"
+    - "231001_121652"
+    - "231004_085953"
+    - "231013_095850"
 
 TTToHadronic_hdamp_down:
   miniAOD: /TTToHadronic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133118"
+    - "230921_113034"
+    - "231001_124444"
+    - "231004_090102"
+    - "231013_095900"
 
 TTToHadronic_hdamp_up:
   miniAOD: /TTToHadronic_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133122"
+    - "230921_145642"
+    - "230925_104214"
+    - "230926_125129"
 
 TTToHadronic_mtop171p5:
   miniAOD: /TTToHadronic_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133127"
+    - "230921_151623"
+    - "231001_132303"
+    - "231004_090149"
 
 TTToHadronic_mtop173p5:
   miniAOD: /TTToHadronic_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133133"
+    - "230921_153140"
+    - "231001_140702"
+    - "231004_090214"
 
 
 
@@ -119,14 +159,27 @@ TTToSemiLeptonic_tune_down:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133139"
+    - "230921_154939"
+    - "231001_150432"
+    - "231004_090400"
+    - "231013_095923"
+    - "231014_072554"
+    - []
+    - "231017_192525"
 
 TTToSemiLeptonic_tune_up:
   miniAOD: /TTToSemiLeptonic_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133145"
+    - "230921_211820"
+    - "231001_155625"
+    - "231004_090543"
+    - "231013_095937"
+    - "231015_164834"
+    - "231017_192558"
 
 TTToSemiLeptonic_hdamp_down:
   miniAOD: /TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
@@ -140,20 +193,31 @@ TTToSemiLeptonic_hdamp_up:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133155"
+    - "230921_162859"
+    - "231001_164355"
+    - "231004_090742"
+    - "231013_095952"
 
 TTToSemiLeptonic_mtop171p5:
   miniAOD: /TTToSemiLeptonic_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133200"
+    - "230921_170011"
+    - "231001_172909"
+    - "231004_090900"
+    - "231013_100010"
 
 TTToSemiLeptonic_mtop173p5:
   miniAOD: /TTToSemiLeptonic_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "230918_133206"
+    - "230921_180002"
+    - "230926_125337"
+    - "231004_092615"
 
 
