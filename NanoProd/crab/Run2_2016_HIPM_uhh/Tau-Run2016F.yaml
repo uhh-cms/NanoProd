@@ -1,0 +1,12 @@
+Tau_Run2016F-HIPM-UL:
+  miniAOD: /Tau/Run2016F-HIPM_UL2016_MiniAODv2-v1/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - ""
+
+config:
+  params:
+    sampleType: data
+    era: Run2_2016_HIPM
+    storeFailed: False
