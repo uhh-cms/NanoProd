@@ -1,0 +1,39 @@
+config:
+  params:
+    sampleType: data
+    era: Run2_2016_HIPM
+    storeFailed: False
+
+ # lumiMask: /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions16/13TeV/Legacy_2016/Cert_271036-284044_13TeV_Legacy2016_Collisions16_JSON.txt
+
+# single muon
+SingleMuon_Run2016B-HIPM-UL:
+  miniAOD: /SingleMuon/Run2016B-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+  - '231023_110040'
+  - '231106_121030'
+  - '231108_133124'
+  - '231121_133525'
+
+SingleMuon_Run2016C-HIPM-UL:
+  miniAOD: /SingleMuon/Run2016C-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+  - '231023_110120'
+  - '231026_121859'
+  - '231026_121907'
+  - '231108_131742'
+
+SingleMuon_Run2016E-HIPM-UL:
+  miniAOD: /SingleMuon/Run2016E-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+  - '231023_110149'
+  - '231102_115337'
+  - '231107_103606'
+  - '231109_124440'
+  - '231115_162925'

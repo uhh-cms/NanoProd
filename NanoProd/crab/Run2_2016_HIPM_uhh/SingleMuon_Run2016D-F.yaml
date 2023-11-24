@@ -13,3 +13,10 @@ SingleMuon_Run2016D-HIPM-UL:
   remoteBase: ana_v1
   timestamps:
     - ""
+
+SingleMuon_Run2016F-HIPM-UL:
+  miniAOD: /SingleMuon/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  sampleType: data
+  remoteBase: ana_v1
+  timestamps:
+    - ""
