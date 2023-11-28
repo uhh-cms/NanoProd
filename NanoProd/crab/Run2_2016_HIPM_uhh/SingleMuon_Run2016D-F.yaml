@@ -19,4 +19,9 @@ SingleMuon_Run2016F-HIPM-UL:
   sampleType: data
   remoteBase: ana_v1
   timestamps:
-    - ""
+    - '231023_110156'
+    - '231107_091409'
+    - '231117_151415'
+    - '231123_144240'
+    - ''
+    - '231127_102542'

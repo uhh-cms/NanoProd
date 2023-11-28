@@ -1,0 +1,22 @@
+WWZ:
+  miniAOD: /WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11_ext1-v1/MINIAODSIM
+  remoteBase: ana_v1
+  sampleType: mc
+  timestamps:
+  - '231013_113957'
+  - '231014_075950'
+WZZ:
+  miniAOD: /WZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11_ext1-v1/MINIAODSIM
+  remoteBase: ana_v1
+  sampleType: mc
+  timestamps:
+  - '231013_114002'
+  - '231016_092328'
+  - ''
+  - ''
+  - '231123_144141'
+config:
+  params:
+    era: Run2_2016_HIPM
+    sampleType: mc
+    storeFailed: true

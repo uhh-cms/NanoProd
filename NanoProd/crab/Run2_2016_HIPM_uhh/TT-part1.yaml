@@ -1,0 +1,145 @@
+config:
+  params:
+    sampleType: mc
+    era: Run2_2016_HIPM
+    storeFailed: True
+
+TTTo2L2Nu:
+  miniAOD: /TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - '231023_123230'
+    - '231026_154928'
+    - '231030_114357'
+    - '231108_133326'
+    - '231115_163917'
+
+TTToHadronic:
+  miniAOD: /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - '231023_123242'
+    - '231027_140206'
+    - '231102_121552'
+    - '231114_114926'
+    - '231115_160532'
+
+TTTo2L2Nu_tune_down:
+  miniAOD: /TTTo2L2Nu_TuneCP5down_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - '231023_123250'
+    - '231026_160430'
+    - '231030_114557'
+    - '231107_101531'
+    - '231115_160539'
+
+TTTo2L2Nu_tune_up:
+  miniAOD: /TTTo2L2Nu_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - '231023_123255'
+    - '231026_160621'
+    - ''
+    - '231102_121604'
+
+TTTo2L2Nu_hdamp_up:
+  miniAOD: /TTTo2L2Nu_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - '231023_123306'
+    - '231027_085925'
+    - ''
+    - '231107_103740'
+    - '231115_160551'
+
+TTTo2L2Nu_mtop173p5:
+  miniAOD: /TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - '231023_123317'
+    - ''
+    - ''
+    - '231102_121638'
+    - '231115_160600'
+
+TTToHadronic_tune_down:
+  miniAOD: /TTToHadronic_TuneCP5down_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - '231023_123322'
+    - '231027_090647'
+    - '231102_121727'
+    - '231115_160616'
+    - '231117_144919'
+    - '231124_125231'
+
+TTToHadronic_tune_up:
+  miniAOD: /TTToHadronic_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - '231023_123327'
+    - '231027_09084'
+    - ''
+    - '231114_115032'
+    - '231115_160622'
+
+TTToHadronic_hdamp_down:
+  miniAOD: /TTToHadronic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - '231023_123332'
+    - '231027_091246'
+    - '231102_121825'
+    - '231108_133522'
+    - '231115_160628'
+
+TTToHadronic_mtop171p5:
+  miniAOD: /TTToHadronic_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - '231023_123342'
+    - '231027_092120'
+    - ''
+    - '231110_113319'
+    - '231115_160641'
+
+TTZToLLNuNu_tune_down:
+  miniAOD: /TTZToLLNuNu_M-10_TuneCP5down_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ''
+    - ''
+    - ''
+    - '231030_114657'
+
+TTZToLLNuNu_tune_up:
+  miniAOD: /TTZToLLNuNu_M-10_TuneCP5up_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ''
+    - ''
+    - ''
+    - '231030_114704'
+
+TTWJetsToLNu_tune_up:
+  miniAOD: /TTWJetsToLNu_TuneCP5up_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ''
+    - ''
+    - ''
+    - '231030_114711'
