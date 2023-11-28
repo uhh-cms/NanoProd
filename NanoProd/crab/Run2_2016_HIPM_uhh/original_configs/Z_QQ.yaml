@@ -1,0 +1,32 @@
+config:
+  params:
+    sampleType: mc
+    era: Run2_2016_HIPM
+    storeFailed: True
+
+#  miniAOD: /ZJetsToQQ_HT-200To400_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+
+ZJetsToQQ_HT-200to400:
+  miniAOD: /ZJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
+ZJetsToQQ_HT-400to600:
+  miniAOD: /ZJetsToQQ_HT-400to600_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
+ZJetsToQQ_HT-600to800:
+  miniAOD: /ZJetsToQQ_HT-600to800_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
+ZJetsToQQ_HT-800toInf: 
+  miniAOD: /ZJetsToQQ_HT-800toInf_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
