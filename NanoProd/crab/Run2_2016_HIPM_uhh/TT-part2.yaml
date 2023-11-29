@@ -1,0 +1,16 @@
+config:
+  params:
+    sampleType: mc
+    era: Run2_2016_HIPM
+    storeFailed: True
+
+TTTo2L2Nu_mtop171p5:
+  miniAOD: /TTTo2L2Nu_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_123312"
+    - "231027_090148"
+    - "231108_132718"
+    - "231117_143620"
+    - "231128_151433"
