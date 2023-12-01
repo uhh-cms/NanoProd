@@ -9,7 +9,10 @@ WWW_ext:
   remoteBase: ana_v1
   sampleType: mc
   timestamps:
-  - ''
+  - '231115_151644'
+  - '231121_133420'
+  - '231127_102621'
+  - '231129_122706'
 config:
   params:
     era: Run2_2016_HIPM

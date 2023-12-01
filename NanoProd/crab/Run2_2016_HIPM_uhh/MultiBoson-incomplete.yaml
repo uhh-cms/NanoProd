@@ -17,7 +17,12 @@ WZ:
   remoteBase: ana_v1
   sampleType: mc
   timestamps:
+  - '231013_113946'
+  - '231016_091923'
   - ''
+  - ''
+  - ''
+  - '231128_132646'
 ZZ:
   miniAOD: /ZZ_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
   remoteBase: ana_v1
