@@ -92,6 +92,17 @@ TTToHadronic_tune_up:
     - '231114_115032'
     - '231115_160622'
 
+TTToHadronic_hdamp_up:
+  miniAOD: /TTToHadronic_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_123337"
+    - "231027_091659"
+    - "231110_112412"
+    - ""
+    - "231129_122730"
+
 TTToHadronic_hdamp_down:
   miniAOD: /TTToHadronic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
   sampleType: mc

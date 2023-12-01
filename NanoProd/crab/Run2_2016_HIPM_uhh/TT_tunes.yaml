@@ -1,0 +1,59 @@
+config:
+  params:
+    sampleType: mc
+    era: Run2_2016_HIPM
+    storeFailed: True
+
+TTToSemiLeptonic:
+  miniAOD: /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - "231023_123236"
+    - "231026_160050"
+    - "231030_114445"
+    - "231108_133403"
+    - "231115_165444"
+TTToSemiLeptonic_tune_down:
+  miniAOD: /TTToSemiLeptonic_TuneCP5down_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - "231128_131404"
+    - "231129_111431"
+    - "231130_115438"
+TTToSemiLeptonic_tune_up:
+  miniAOD: /TTToSemiLeptonic_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - "231128_131409"
+    - "231129_112313"
+TTToSemiLeptonic_hdamp_down:
+  miniAOD: /TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM 
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - "231128_131414"
+    - "231129_113136"
+TTToSemiLeptonic_hdamp_up:
+  miniAOD: /TTToSemiLeptonic_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - "231128_131419"
+    - "231129_114105"
+TTToSemiLeptonic_mtop173p5:
+  miniAOD: /TTToSemiLeptonic_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
+    - ""
+TTToSemiLeptonic_mtop171p5:
+  miniAOD: /TTToSemiLeptonic_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - "231128_131429"
+    - "231129_121652"
