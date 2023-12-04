@@ -3,25 +3,29 @@ ST_t-channel_top_4f_InclusiveDecays_hdamp_down:
   remoteBase: ana_v1
   sampleType: mc
   timestamps:
-  - ''
+  - '231129_152320'
+  - '231130_103054'
 ST_t-channel_top_4f_InclusiveDecays_hdamp_up:
   miniAOD: /ST_t-channel_top_4f_hdampup_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v3/MINIAODSIM
   remoteBase: ana_v1
   sampleType: mc
   timestamps:
-  - ''
+  - '231129_152325'
+  - '231130_120334'
 ST_t-channel_antitop_4f_InclusiveDecays_hdamp_down:
   miniAOD: /ST_t-channel_antitop_4f_hdampdown_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v3/MINIAODSIM
   remoteBase: ana_v1
   sampleType: mc
   timestamps:
-  - ''
+  - '231129_152330'
+  - '231130_103353'
 ST_t-channel_antitop_4f_InclusiveDecays_hdamp_up:
   miniAOD: /ST_t-channel_antitop_4f_hdampup_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v3/MINIAODSIM
   remoteBase: ana_v1
   sampleType: mc
   timestamps:
-  - ''
+  - '231129_152334'
+  - '231130_103637'
 config:
   params:
     era: Run2_2016_HIPM
