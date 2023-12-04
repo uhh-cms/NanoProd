@@ -14,3 +14,18 @@ TTTo2L2Nu_mtop171p5:
     - "231108_132718"
     - "231117_143620"
     - "231128_151433"
+TTToHadronic_mtop173p5:
+  miniAOD: /TTToHadronic_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - '231023_123347'
+    - '231025_075013'
+    - '231026_091132'
+TTWJetsToLNu_tune_down:
+  miniAOD: /TTWJetsToLNu_TuneCP5down_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - '231023_123404'
+    - '231024_102244'
