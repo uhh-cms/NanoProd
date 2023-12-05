@@ -12,8 +12,10 @@ SingleMuon_Run2016D-HIPM-UL:
   sampleType: data
   remoteBase: ana_v1
   timestamps:
-    - ""
-
+    - ''
+    - '231201_100729'
+    - '231204_103140'
+ 
 SingleMuon_Run2016F-HIPM-UL:
   miniAOD: /SingleMuon/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD
   sampleType: data

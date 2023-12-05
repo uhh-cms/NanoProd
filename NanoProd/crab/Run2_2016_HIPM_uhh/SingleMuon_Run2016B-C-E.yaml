@@ -8,7 +8,7 @@ config:
 
 # single muon
 SingleMuon_Run2016B-ver2_HIPM-UL:
-  miniAOD: /SingleMuon/Run2016B-HIPM_UL2016_MiniAODv2-v2/MINIAOD
+  miniAOD: /SingleMuon/Run2016B-ver2_HIPM_UL2016_MiniAODv2-v2/MINIAOD 
   sampleType: data
   remoteBase: ana_v1
   timestamps:

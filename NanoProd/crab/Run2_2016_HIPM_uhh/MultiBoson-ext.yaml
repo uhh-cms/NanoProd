@@ -3,7 +3,10 @@ ZZZ_ext:
   remoteBase: ana_v1
   sampleType: mc
   timestamps:
-  - ''
+  - '231115_151649'
+  - '231117_144147'
+  - '231127_102651'
+  - '231204_102209'
 WWW_ext:
   miniAOD: /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11_ext1-v1/MINIAODSIM
   remoteBase: ana_v1
