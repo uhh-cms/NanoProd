@@ -3,7 +3,9 @@ Tau_Run2016F-HIPM-UL:
   sampleType: data
   remoteBase: ana_v1
   timestamps:
-    - ""
+    - '231124_135051'
+    - '231204_104956'
+    - '231205_121531'
 
 config:
   params:
