@@ -1,0 +1,19 @@
+config:
+  params:
+    sampleType: mc
+    era: Run2_2016_HIPM
+    storeFailed: True
+
+DYJetsToLL_LHEFilterPtZ-100To250:
+  miniAOD: /DYJetsToLL_LHEFilterPtZ-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM$
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
+
+TTToSemiLeptonic_mtop173p5:
+  miniAOD: /TTToSemiLeptonic_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM$
+  sampleType: mc
+  remoteBase: ana_v1
+  timestamps:
+    - ""
