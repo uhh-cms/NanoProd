@@ -5,8 +5,9 @@ params:
   skimSetup: skim
   skimSetupFailed: skim_failed
   maxEvents: -1
+  
 splitting: FileBased
-unitsPerJob: 1
+unitsPerJob: 2
 scriptExe: RunKit/crabJob.sh
 outputFiles:
   - nano.root
@@ -19,13 +20,13 @@ filesToTransfer:
   - NanoProd/config/skim_uhh.yaml
   - NanoProd/python/customize.py
 site: T2_DE_DESY
-crabOutput: /store/user/mrieger/crab_nano_uhh_v12
-localCrabOutput: /eos/user/m/mrieger/NanoProd_outputs/local_crab_output
-finalOutput: /eos/user/m/mrieger/NanoProd_outputs/final_output
+crabOutput: /store/user/pkeicher/crab_nano_v12
+localCrabOutput: davs://dcache-cms-webdav-wan.desy.de:2880/pnfs/desy.de/cms/tier2/store/user/pkeicher/crab_nano_v12
+finalOutput: davs://dcache-cms-webdav-wan.desy.de:2880/pnfs/desy.de/cms/tier2/store/user/pkeicher/crab_nano_v12
 maxMemory: 2500
 numCores: 1
 inputDBS: global
-ignoreLocality: False
+ignoreLocality: True
 allowNonValid: False
 dryrun: False
 maxRecoveryCount: 3
@@ -37,6 +38,11 @@ localProcessing:
 #  requirements: ( (OpSysAndVer =?= "CentOS7") || (OpSysAndVer =?= "CentOS8") )
 targetOutputFileSize: 2048
 renewKerberosTicket: True
+whitelist:
+  - T1_DE_KIT
+  - T2_CH_CERN
+  - T2_DE_DESY
+  - T2_IT_Legnaro
 whitelistFinalRecovery:
   - T1_DE_KIT
   - T2_CH_CERN

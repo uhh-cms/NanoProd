@@ -317,7 +317,7 @@ class WLCGInterface(object):
                         {len(overlap)} LFNs are already marked as 'done' but
                         have come up here again. This should not happen
                     """.split())
-                    raise ValueError(msg)
+                    # raise ValueError(msg)
                 else:
                     overlap_string = "\n".join(overlap)
                     raise ValueError(f"""
@@ -362,7 +362,10 @@ class WLCGInterface(object):
             if verbosity >= 1:
                 print(f"WARNING: Unable to load information for sample '{sample_name}'")
             return das_key
-        return sample_info.get("miniAOD", None)
+        key = sample_info.get("miniAOD", None)
+        if not key:
+            key = sample_info.get("inputDataset", None)
+        return key
 
     def get_campaign_name(self, das_key: str=None, verbosity: int=0) -> str:
         """small function to translate the sample name attributed by the 
@@ -395,7 +398,14 @@ class WLCGInterface(object):
 
     def load_valid_file_list(self, das_key: str) -> dict[str: Any]:
         # load the file list for this dataset
-        file_list = self.dbs_api.listFiles(dataset=das_key, detail=1)
+        try:
+            file_list = self.dbs_api.listFiles(dataset=das_key, detail=1)
+        except Exception as e:
+            print("Encounter exception:")
+            print(e)
+            from IPython import embed
+            embed()
+            raise e
         # by default, this list contains _all_ files (also LFNs that are not
         # reachable) so filter out broken files
         file_list = list(filter(
