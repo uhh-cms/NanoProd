@@ -1,0 +1,12 @@
+EGamma_Run2018D:
+  inputDataset: /EGamma/Run2018D-UL2018_MiniAODv2_GT36-v2/MINIAOD
+  remoteBase: philip_v1
+  sampleType: data
+  timestamps:
+  - '231127_083917'
+  - '231129_143305'
+config:
+  params:
+    era: Run2_2018
+    sampleType: data
+    storeFailed: false
