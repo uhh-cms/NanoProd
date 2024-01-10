@@ -32,12 +32,6 @@ DYJetsToLL_LHEFilterPtZ-0To50:
   - '231002_140139'
   - '231004_112359'
   - '231005_121217'
-DYJetsToLL_LHEFilterPtZ-100To250:
-  miniAOD: /DYJetsToLL_LHEFilterPtZ-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
-  remoteBase: ana_v1
-  sampleType: mc
-  timestamps:
-  - ''
 DYJetsToLL_LHEFilterPtZ-250To400:
   miniAOD: /DYJetsToLL_LHEFilterPtZ-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM
   remoteBase: ana_v1
@@ -71,21 +65,6 @@ DYJetsToLL_LHEFilterPtZ-650ToInf:
   timestamps:
   - '231002_140204'
   - '231003_124244'
-DYJetsToLL_M-50_amcatnloFXFX:
-  miniAOD: /DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
-  remoteBase: ana_v1
-  sampleType: mc
-  timestamps:
-  - '231002_140115'
-  - '231004_084922'
-  - '231006_075935'
-  - '231009_155635'
-  - ''
-  - '231026_120530'
-  - ''
-  - ''
-  - ''
-  - '231108_131700'
 config:
   params:
     era: Run2_2016_HIPM
