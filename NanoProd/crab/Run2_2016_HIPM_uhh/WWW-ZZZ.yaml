@@ -10,8 +10,10 @@ ZZZ:
   remoteBase: ana_v1
   sampleType: mc
   timestamps:
+  - '240125_102403'
   - ''
   - ''
+  - '240129_091008'
 config:
   params:
     era: Run2_2016_HIPM
