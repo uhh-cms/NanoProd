@@ -1,4 +1,4 @@
-ST_t-channel_antitop_4f_InclusiveDecays:
+ST_t-channel_antitop_5f_InclusiveDecays:
   miniAOD: /ST_t-channel_antitop_5f_InclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
   remoteBase: nathan_v1
   sampleType: mc
@@ -50,7 +50,7 @@ ST_t-channel_antitop_4f_InclusiveDecays_tune_up:
   - []
   - []
 
-ST_t-channel_top_4f_InclusiveDecays:
+ST_t-channel_top_5f_InclusiveDecays:
   miniAOD: /ST_t-channel_top_5f_InclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM
   remoteBase: nathan_v1
   sampleType: mc
