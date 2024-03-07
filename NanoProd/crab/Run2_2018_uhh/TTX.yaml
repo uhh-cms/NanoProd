@@ -15,6 +15,7 @@ TTWW:
     - []
     - "230926_083908"
 
+
 TTZZ:
   miniAOD: /TTZZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
@@ -22,6 +23,7 @@ TTZZ:
   timestamps:
     - "230918_132946"
     - "230920_145231"
+
 
 TTWZ:
   miniAOD: /TTWZ_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
@@ -41,6 +43,7 @@ TTZToLLNuNu:
     - "230921_080100"
     - "230921_192337"
 
+
 TTZToLLNuNu_tune_down:
   miniAOD: /TTZToLLNuNu_M-10_TuneCP5down_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
@@ -49,6 +52,7 @@ TTZToLLNuNu_tune_down:
     - "230918_132958"
     - "230920_145419"
     - "230921_192522"
+
 
 TTZToLLNuNu_tune_up:
   miniAOD: /TTZToLLNuNu_M-10_TuneCP5up_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
@@ -69,6 +73,7 @@ TTWJetsToQQ:
     - "230920_145728"
     - "230921_080145"
 
+
 TTWJetsToLNu:
   miniAOD: /TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
@@ -80,6 +85,7 @@ TTWJetsToLNu:
     - "230926_083916"
     - "231013_095718"
 
+
 TTWJetsToLNu_tune_down:
   miniAOD: /TTWJetsToLNu_TuneCP5down_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
@@ -87,6 +93,7 @@ TTWJetsToLNu_tune_down:
   timestamps:
     - "230918_133019"
     - "230920_145851"
+
 
 TTWJetsToLNu_tune_up:
   miniAOD: /TTWJetsToLNu_TuneCP5up_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM

@@ -4,6 +4,7 @@ config:
     era: Run2_2018
     storeFailed: True
 
+
 WJetsToLNu:
   miniAOD: /WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
@@ -14,15 +15,25 @@ WJetsToLNu:
     - "231001_173649"
     - "231004_092626"
 
+
 WJetsToLNu_HT-70To100:
   miniAOD: /WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - "230918_133216"
-    - "230921_182336"
-    - "230926_125418"
-    - "231001_175044"
+    - "231215_140157"
+    - []
+    - "231222_110711"
+  ignore_miniAOD_LFNs:
+    - /store/mc/RunIISummer20UL18MiniAODv2/WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/240000/2FE09B63-8F4E-6F4D-9861-896513B6CC3A.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/240000/B9AA343C-B080-1647-8AB4-285F4E5C920F.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/240000/6505343E-6D8B-354C-B5C7-BAE911650F29.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/240000/2766BEC4-65CB-C642-AAEB-970249913115.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/240000/7AB8FDEF-A210-8B40-B681-5978D6D93536.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/240000/0DCFBB94-D9C0-8541-AB05-3D54D5D422A3.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/240000/C12E45A6-40E8-1C40-BA67-D0A7DA1AA617.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/240000/D3A93A34-AAD2-7547-8A64-8CD8FA1FE4A5.root
+
 
 WJetsToLNu_HT-100To200:
   miniAOD: /WJetsToLNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
@@ -33,6 +44,7 @@ WJetsToLNu_HT-100To200:
     - "230921_183626"
     - "230925_104852"
     - "230926_125446"
+
 
 WJetsToLNu_HT-200To400:
   miniAOD: /WJetsToLNu_HT-200To400_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
@@ -47,6 +59,7 @@ WJetsToLNu_HT-200To400:
     - []
     - "231015_164911"
 
+
 WJetsToLNu_HT-400To600:
   miniAOD: /WJetsToLNu_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
@@ -56,15 +69,15 @@ WJetsToLNu_HT-400To600:
     - "230921_184918"
     - "230925_104928"
 
+
 WJetsToLNu_HT-600To800:
   miniAOD: /WJetsToLNu_HT-600To800_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - "230918_133241"
-    - "230921_185127"
-    - "230926_125516"
-    - "231001_175758"
+    - "231215_140206"
+    - "231221_143232"
+
 
 WJetsToLNu_HT-800To1200:
   miniAOD: /WJetsToLNu_HT-800To1200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
@@ -76,6 +89,7 @@ WJetsToLNu_HT-800To1200:
     - []
     - "231004_092828"
 
+
 WJetsToLNu_HT-1200To2500:
   miniAOD: /WJetsToLNu_HT-1200To2500_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
@@ -85,6 +99,7 @@ WJetsToLNu_HT-1200To2500:
     - "230921_185250"
     - "230926_125829"
     - "231001_180141"
+
 
 WJetsToLNu_HT-2500ToInf:
   miniAOD: /WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
@@ -104,6 +119,7 @@ WToTauNu_M-200:
   timestamps:
     - "230918_133257"
 
+
 WToMuNu_M-200:
   miniAOD: /WToMuNu_M-200_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
@@ -113,4 +129,3 @@ WToMuNu_M-200:
     - []
     - "230926_125849"
     - "231001_180301"
-

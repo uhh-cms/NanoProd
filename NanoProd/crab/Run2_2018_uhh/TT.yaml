@@ -4,21 +4,36 @@ config:
     era: Run2_2018
     storeFailed: True
 
+
 TTTo2L2Nu:
   miniAOD: /TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - "230918_133028"
-    - "230920_154521"
-    - "230921_081146"
+    - "231215_140027"
+    - "231219_154421"
+    - "231220_105439"
+
 
 TTToSemiLeptonic:
   miniAOD: /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-      - ""
+    - "240209_093102"
+  ignore_miniAOD_LFNs:
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v2/120001/CEA3B3E3-578C-D846-95DA-3F5CBEC94476.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v2/120001/55CFD4BB-8F9B-8D43-A179-22D602983428.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v2/120000/CA4690BD-6732-6743-B2A4-28B37E78ABFF.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v2/120000/9BF5A8BC-170C-B64E-AC1C-7070B055805B.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v2/120001/87D36192-C438-0D4F-BF13-8086BA5DE674.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v2/270005/46AE7D06-4242-A244-8D18-21DEBF421BC8.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v2/120000/5E6CBFCC-E93C-F447-8DD0-40BAF8044305.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v2/120000/24450626-A35D-E241-897B-8592BB606A4D.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v2/120002/5CEAC58F-854A-3147-A1AF-45CC9201865A.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v2/270004/3BD6CC4A-7B40-E444-96A5-59D6DCFFAD8F.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v2/120001/1B93DF0B-24A8-294C-BA2E-A12999A6B8F2.root
+
 
 TTToHadronic:
   miniAOD: /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
@@ -29,9 +44,12 @@ TTToHadronic:
     - "230921_093135"
     - "230926_125010"
     - "231001_103602"
+  ignore_miniAOD_LFNs:
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/240001/516B0DFC-8D7C-4841-A483-7EEB8F69E312.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/30001/1255B040-B9E9-5245-84B2-93D5AEF83102.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/230001/442857FC-C22D-CF41-A8DA-C7DF3CC7E0B3.root
 
 
-# Tune up/down
 TTTo2L2Nu_tune_down:
   miniAOD: /TTTo2L2Nu_TuneCP5down_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
@@ -42,15 +60,15 @@ TTTo2L2Nu_tune_down:
     - "230925_103044"
     - "231001_103617"
 
+
 TTTo2L2Nu_tune_up:
   miniAOD: /TTTo2L2Nu_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - "230918_133047"
-    - "230920_160034"
-    - "230921_142223"
-    - "230925_103059"
+    - "231215_140047"
+    - "231219_160538"
+
 
 TTTo2L2Nu_hdamp_down:
   miniAOD: /TTTo2L2Nu_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
@@ -63,6 +81,7 @@ TTTo2L2Nu_hdamp_down:
     - "231004_085609"
     - "231013_095835"
 
+
 TTTo2L2Nu_hdamp_up:
   miniAOD: /TTTo2L2Nu_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
@@ -73,6 +92,7 @@ TTTo2L2Nu_hdamp_up:
     - "231001_105957"
     - "231004_085648"
 
+
 TTTo2L2Nu_mtop171p5:
   miniAOD: /TTTo2L2Nu_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
@@ -81,14 +101,23 @@ TTTo2L2Nu_mtop171p5:
     - "230918_133100"
     - "230921_095904"
 
+
 TTTo2L2Nu_mtop173p5:
   miniAOD: /TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - "230918_133104"
-    - "230921_101121"
-    - "230925_103725"
+    - "231215_140056"
+    - "231219_162540"
+  ignore_miniAOD_LFNs:
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/120000/8FD6E08D-6011-6544-9ADC-009AD0B32BF8.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/120000/660F588D-78FF-C04E-8CC3-0919FD752D88.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/120000/C94403D7-B32D-1C44-8D4E-D4428D9B60B8.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/120000/D3BB95A2-7C6A-D249-820F-98E4BEFE155B.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/120000/93ACE78C-986E-F448-A26D-F017E92A105E.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/120000/710774C4-77B0-1E44-A842-0F5FEB33F802.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/120000/9BF56BB4-729A-3547-A10E-26C910F2538A.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/120000/10AF6A9E-7021-9148-BD6F-5A8856C2DECB.root
 
 
 TTToHadronic_tune_down:
@@ -99,6 +128,7 @@ TTToHadronic_tune_down:
     - "230918_133109"
     - "230921_105616"
     - "230922_071320"
+
 
 TTToHadronic_tune_up:
   miniAOD: /TTToHadronic_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
@@ -111,6 +141,7 @@ TTToHadronic_tune_up:
     - "231004_085953"
     - "231013_095850"
 
+
 TTToHadronic_hdamp_down:
   miniAOD: /TTToHadronic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
@@ -122,6 +153,7 @@ TTToHadronic_hdamp_down:
     - "231004_090102"
     - "231013_095900"
 
+
 TTToHadronic_hdamp_up:
   miniAOD: /TTToHadronic_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
@@ -131,6 +163,9 @@ TTToHadronic_hdamp_up:
     - "230921_145642"
     - "230925_104214"
     - "230926_125129"
+  ignore_miniAOD_LFNs:
+    - "/store/mc/RunIISummer20UL18MiniAODv2/TTToHadronic_hdampUP_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270002/20956B41-3DF5-9A40-9E8D-B6D7E8F0ECA4.root" #noqa
+
 
 TTToHadronic_mtop171p5:
   miniAOD: /TTToHadronic_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
@@ -142,6 +177,7 @@ TTToHadronic_mtop171p5:
     - "231001_132303"
     - "231004_090149"
 
+
 TTToHadronic_mtop173p5:
   miniAOD: /TTToHadronic_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
@@ -151,7 +187,6 @@ TTToHadronic_mtop173p5:
     - "230921_153140"
     - "231001_140702"
     - "231004_090214"
-
 
 
 TTToSemiLeptonic_tune_down:
@@ -168,25 +203,48 @@ TTToSemiLeptonic_tune_down:
     - []
     - "231017_192525"
 
+
 TTToSemiLeptonic_tune_up:
   miniAOD: /TTToSemiLeptonic_TuneCP5up_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - "230918_133145"
-    - "230921_211820"
-    - "231001_155625"
-    - "231004_090543"
-    - "231013_095937"
-    - "231015_164834"
-    - "231017_192558"
+    - "231215_140116"
+    - "231220_122424"
+
 
 TTToSemiLeptonic_hdamp_down:
   miniAOD: /TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231215_140126"
+    - "231221_122529"
+  ignore_miniAOD_LFNs:
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/44821BC6-F209-C948-9880-7B53A0B809EE.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/217AC728-D822-9B40-8FF1-E5EA25D5E4BC.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270001/BB1A6BB0-5045-E441-AC50-4E7C70890148.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270001/1948BF69-8B28-8C4B-945C-74CE23ABD25F.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270001/8E7BCF7B-AF46-7E4B-8C20-29CA729FA147.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270001/82A9EF22-081F-064B-B23C-CA5E6C765BD5.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/3211623F-E807-A945-AD05-AD134EEF5A6B.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270001/D551F30B-38A5-5F4B-8583-48D661344566.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/14741B95-AD9E-B244-A453-745902B0C7B8.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270001/647C684A-E9C0-3047-A880-F93174F692D4.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/8B40548E-D065-8040-A1AF-A25F691C577D.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270001/E9714D75-DD36-B54F-8545-D939A6A8E0CE.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/45C98A81-24E0-194A-BF67-183492476B24.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/9DA0518F-99CC-A446-8268-EADF7A4267CC.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270001/1B85DD40-9F75-9742-A3E2-54C94A6CFBC3.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/1A2B1826-13B2-4641-8040-6E0B8F1C865A.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/A21E6500-0471-F14C-9CE5-44B192BDF483.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/4A205740-A158-764B-856D-89A41B454B93.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270002/8BFCD9B8-EA3E-1546-80F3-2F568522ECF3.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/651E0C98-9C9A-224D-88B5-4A83D38F2A60.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270001/42F1AB73-8FCE-BD46-96C4-4DF764ECF0C3.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/F7BD8DFA-F50B-0848-B9B8-08D8CADF366B.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/476B6D88-3B4C-4F49-8103-6AC832FFD70D.root
+
 
 TTToSemiLeptonic_hdamp_up:
   miniAOD: /TTToSemiLeptonic_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
@@ -199,6 +257,7 @@ TTToSemiLeptonic_hdamp_up:
     - "231004_090742"
     - "231013_095952"
 
+
 TTToSemiLeptonic_mtop171p5:
   miniAOD: /TTToSemiLeptonic_mtop171p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
@@ -210,14 +269,12 @@ TTToSemiLeptonic_mtop171p5:
     - "231004_090900"
     - "231013_100010"
 
+
 TTToSemiLeptonic_mtop173p5:
   miniAOD: /TTToSemiLeptonic_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - "230918_133206"
-    - "230921_180002"
-    - "230926_125337"
-    - "231004_092615"
-
-
+    - "231215_140137"
+    - "231221_135052"
+    - "231222_110630"

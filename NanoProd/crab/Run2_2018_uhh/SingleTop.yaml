@@ -4,19 +4,22 @@ config:
     era: Run2_2018
     storeFailed: True
 
+
 ST_tW_antitop_5f_inclusiveDecays:
   miniAOD: /ST_tW_antitop_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231215_131216"
+    - "231218_115822"
+
 
 ST_tW_top_5f_inclusiveDecays:
   miniAOD: /ST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231215_131227"
 
 
 ST_t-channel_antitop_4f_InclusiveDecays:
@@ -24,44 +27,63 @@ ST_t-channel_antitop_4f_InclusiveDecays:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231215_131233"
+    - "231218_122944"
+
 
 ST_t-channel_top_4f_InclusiveDecays:
   miniAOD: /ST_t-channel_top_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231215_131241"
+    - "231218_134259"
+    - "231219_131651"
 
 
-# Tune up/down
 ST_t-channel_top_4f_InclusiveDecays_tune_down:
   miniAOD: /ST_t-channel_top_4f_InclusiveDecays_TuneCP5down_13TeV-powheg-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231215_131250"
+    - "231218_141609"
+
 
 ST_t-channel_top_4f_InclusiveDecays_tune_up:
   miniAOD: /ST_t-channel_top_4f_InclusiveDecays_TuneCP5up_13TeV-powheg-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231215_131258"
+    - "231218_144432"
+    - "231219_131732"
 
 ST_t-channel_top_4f_InclusiveDecays_mtop171p5:
   miniAOD: /ST_t-channel_top_4f_InclusiveDecays_mtop1715_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231215_131305"
+    - "231218_151538"
+    - "231219_131814"
+  ignore_miniAOD_LFNs:
+    - /store/mc/RunIISummer20UL18MiniAODv2/ST_t-channel_top_4f_InclusiveDecays_mtop1715_TuneCP5_13TeV-powheg-madspin-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v3/270000/88A62635-C69F-334D-BD30-ED678A86D1FC.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/ST_t-channel_top_4f_InclusiveDecays_mtop1715_TuneCP5_13TeV-powheg-madspin-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v3/270000/B8623F84-05BB-A243-B2E1-A3E6C86859CC.root
+
 
 ST_t-channel_top_4f_InclusiveDecays_mtop173p5:
   miniAOD: /ST_t-channel_top_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231215_131313"
+    - "231218_154557"
+  ignore_miniAOD_LFNs:
+    - "/store/mc/RunIISummer20UL18MiniAODv2/ST_t-channel_antitop_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v3/270000/C0CD8611-08611-0E3A-9446-88CD-C1F3B16AF168.root"
+    - "/store/mc/RunIISummer20UL18MiniAODv2/ST_t-channel_antitop_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v3/130000/D9F6C184-EC184-EDDC-524A-B6BD-E53DD634AFED.root"
+    - "/store/mc/RunIISummer20UL18MiniAODv2/ST_t-channel_antitop_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v3/130000/EEED0D11-70D11-7934-A94A-B8C6-51B8198CE76F.root"
+    - "/store/mc/RunIISummer20UL18MiniAODv2/ST_t-channel_antitop_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v3/130000/AFE66E3C-76E3C-7367-8149-B748-A010EC03A07A.root"
 
 
 ST_t-channel_antitop_4f_InclusiveDecays_tune_up:
@@ -69,29 +91,39 @@ ST_t-channel_antitop_4f_InclusiveDecays_tune_up:
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231215_131320"
+    - "231218_155940"
+  ignore_miniAOD_LFNs:
+    - /store/mc/RunIISummer20UL18MiniAODv2/ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5up_13TeV-powheg-madspin-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v3/130000/0F7E0C59-8B33-1B43-A763-232570D5AAD9.root
+
 
 ST_t-channel_antitop_4f_InclusiveDecays_tune_down:
   miniAOD: /ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5down_13TeV-powheg-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231215_131327"
+    - "231218_161259"
+
 
 ST_t-channel_antitop_4f_InclusiveDecays_mtop171p5:
   miniAOD: /ST_t-channel_antitop_4f_InclusiveDecays_mtop1715_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
+    - "231215_131334"
+    - "231218_162830"
+
 
 ST_t-channel_antitop_4f_InclusiveDecays_mtop173p5:
   miniAOD: /ST_t-channel_antitop_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM
   sampleType: mc
   remoteBase: bogdan_v1
   timestamps:
-    - ""
-
-
-
-
+    - "231215_131342"
+    - "231218_164123"
+  ignore_miniAOD_LFNs:
+    - /store/mc/RunIISummer20UL18MiniAODv2/ST_t-channel_antitop_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v3/130000/EEED0D11-7934-A94A-B8C6-51B8198CE76F.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/ST_t-channel_antitop_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v3/130000/D9F6C184-EDDC-524A-B6BD-E53DD634AFED.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/ST_t-channel_antitop_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v3/130000/AFE66E3C-7367-8149-B748-A010EC03A07A.root
+    - /store/mc/RunIISummer20UL18MiniAODv2/ST_t-channel_antitop_4f_InclusiveDecays_mtop1735_TuneCP5_13TeV-powheg-madspin-pythia8/MINIAODSIM/106X_upgrade2018_realistic_v16_L1v1-v3/270000/C0CD8611-0E3A-9446-88CD-C1F3B16AF168.root
