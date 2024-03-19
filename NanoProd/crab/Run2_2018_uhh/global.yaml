@@ -2,5 +2,5 @@ GLOBAL:
   era: Run2_2018
   nanoVersion: v12
   remoteBases:
-    philip_v1: gsiftp://dcache-door-cms04.desy.de//pnfs/desy.de/cms/tier2/store/user/pkeicher/YOUR_LOCATION
-    bogdan_v1: gsiftp://dcache-door-cms04.desy.de//pnfs/desy.de/cms/tier2/store/user/bwieders/YOUR_LOCATION
+    philip_v1: gsiftp://dcache-door-cms04.desy.de//pnfs/desy.de/cms/tier2/store/user/pkeicher/crab_nano_v12
+    bogdan_v1: gsiftp://dcache-door-cms04.desy.de//pnfs/desy.de/cms/tier2/store/user/bwieders/crab_nano_v11_v2_2018
