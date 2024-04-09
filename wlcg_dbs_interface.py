@@ -76,6 +76,8 @@ class WLCGInterface(object):
         self,
         cms_dbs_url: str="https://cmsweb.cern.ch/dbs/prod/global/DBSReader",
     ):
+        # for debugging
+        return None
         # setup dbs search
         try:
             from dbs.apis.dbsClient import DbsApi
@@ -393,7 +395,19 @@ class WLCGInterface(object):
 
     def load_valid_file_list(self, das_key: str) -> dict[str: Any]:
         # load the file list for this dataset
-        file_list = self.dbs_api.listFiles(dataset=das_key, detail=1)
+        try:
+            file_list = self.dbs_api.listFiles(dataset=das_key, detail=1)
+        except Exception as e:
+            print("Encounter exception:")
+            print(e)
+            print("Will try dasgoclient next")
+            from subprocess import Popen, PIPE
+            import json
+            das_go_output = Popen(f"dasgoclient -query='file dataset={das_key}' -json", shell=True, stdout=PIPE)
+            das_go_json = json.loads(das_go_output.communicate()[0])
+            file_list = list()
+            for info in das_go_json:
+                file_list += info["file"]
         # by default, this list contains _all_ files (also LFNs that are not
         # reachable) so filter out broken files
         file_list = list(filter(
