@@ -11,7 +11,7 @@ DYJetsToLL_LHEFilterPtZ-100To250:
   timestamps:
     - "231215_154627"
     - "231218_124517"
-  ignore_miniAOD_LFNs: ['/store/mc/RunIISummer20UL16MiniAODAPVv2/DYJetsToLL_LHEFilterPtZ-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/C4952EA8-62B6-6447-BC75-EFF12B3B53FB.root']
+#  ignore_miniAOD_LFNs: ['/store/mc/RunIISummer20UL16MiniAODAPVv2/DYJetsToLL_LHEFilterPtZ-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v2/50000/C4952EA8-62B6-6447-BC75-EFF12B3B53FB.root']
 TTToSemiLeptonic_mtop173p5:
   miniAOD: /TTToSemiLeptonic_mtop173p5_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM
   sampleType: mc
@@ -27,4 +27,5 @@ TTToSemiLeptonic:
   timestamps:
     - "231211_125453"
     - "231212_104427"
-  ignore_miniAOD_LFNs: ['/store/mc/RunIISummer20UL16MiniAODAPVv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v1/130000/1C472EB9-4242-2443-BDC2-420472381D94.root','/store/mc/RunIISummer20UL16MiniAODAPVv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v1/70000/01A68868-091F-A047-BD8A-DEDAFD83A190.root','/store/mc/RunIISummer20UL16MiniAODAPVv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v1/130000/C8EC5D63-2400-C448-AB3D-9D96C2CD9860.root']
+    - "240110_135642"
+#  ignore_miniAOD_LFNs: ['/store/mc/RunIISummer20UL16MiniAODAPVv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v1/130000/1C472EB9-4242-2443-BDC2-420472381D94.root','/store/mc/RunIISummer20UL16MiniAODAPVv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v1/70000/01A68868-091F-A047-BD8A-DEDAFD83A190.root','/store/mc/RunIISummer20UL16MiniAODAPVv2/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/MINIAODSIM/106X_mcRun2_asymptotic_preVFP_v11-v1/130000/C8EC5D63-2400-C448-AB3D-9D96C2CD9860.root']
